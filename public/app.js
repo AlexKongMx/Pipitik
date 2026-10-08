@@ -1,0 +1,7 @@
+const menu=document.querySelector('.menu-toggle');const nav=document.querySelector('#navigation');
+function closeMenu(){menu?.setAttribute('aria-expanded','false');menu?.setAttribute('aria-label','Abrir menú');nav?.classList.remove('open')}
+menu?.addEventListener('click',()=>{const open=menu.getAttribute('aria-expanded')!=='true';menu.setAttribute('aria-expanded',String(open));menu.setAttribute('aria-label',open?'Cerrar menú':'Abrir menú');nav.classList.toggle('open',open)});
+nav?.querySelectorAll('a').forEach(a=>a.addEventListener('click',closeMenu));document.addEventListener('keydown',e=>{if(e.key==='Escape')closeMenu()});window.addEventListener('resize',()=>{if(window.innerWidth>700)closeMenu()});
+const dialog=document.querySelector('.lightbox');let trigger;
+document.querySelectorAll('[data-photo]').forEach(b=>b.addEventListener('click',()=>{trigger=b;dialog.querySelector('img').src=b.dataset.photo;dialog.querySelector('img').alt=b.querySelector('img').alt;dialog.querySelector('p').textContent=b.dataset.caption;dialog.showModal();document.body.classList.add('modal-open')}));
+dialog?.querySelector('button').addEventListener('click',()=>dialog.close());dialog?.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close()}});dialog?.addEventListener('close',()=>{document.body.classList.remove('modal-open');trigger?.focus()});

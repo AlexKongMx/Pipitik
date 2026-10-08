@@ -45,3 +45,14 @@ Revisar `npm run build`, rutas directas, seis tarjetas de portada, trece tarjeta
 Héroes autorizados por Alex: Hulk con foto real in situ; The Last of Us, Demogorgon, ballena, Blue Demon y Trono de Hierro con las propuestas AI seleccionadas. Mufasa recreado sobre el carro alegórico original, en Reforma frente al Ángel, usando referencias de instalación y construcción. Lalo tiene retrato AI basado en las fotos identificadas por Alex, con la misma dirección de fotografía del equipo.
 
 Robin conserva su foto real en Bellas Artes: la nueva generación en esa ubicación fue rechazada por el generador. Tarjetas y héroes muestran la pieza completa; la portada separa imagen y texto en escritorio y móvil.
+
+
+## Política de trabajo — 8 octubre 2026
+
+Todos los cambios se revisan en Netlify Deploy Preview. **DO NOT PUSH TO MAIN** hasta que Alex lo indique explícitamente; los pedidos de edición no autorizan publicar a producción. Ver `AGENTS.md`.
+
+Tablero: https://trello.com/b/m2b9JcBy. Consultas y modificaciones exclusivamente mediante n8n, sin conector nativo de Trello. El flujo de creación quedó en el espacio personal de n8n y fue deshabilitado después de crear el tablero.
+
+Esta revisión usa el Hulk con el equipo en portada y conserva el Hulk en plaza dentro del proyecto. Tron muestra primero el stand promocional abierto; su tarjeta mantiene la toma cercana. Last of Us se recrea en una convención y Pinocho en un lobby de cine. Mufasa incorpora un letrero y entra a los seis destacados. Alien y los retratos se conservan.
+
+Imágenes generadas con la herramienta integrada a partir de referencias del proyecto. Assets: `public/assets/the-last-of-us-hero-convention-ai.webp`, `public/assets/pinocho-hero-cinema-ai.webp`, `public/assets/mufasa-hero-reforma-title-ai.webp`. Direcciones de prompt: preservar la escultura de Last of Us y trasladar su stand a Comic-Con; preservar el busto, nariz y gráfica de Pinocho en un cine; preservar el carro de Mufasa en Reforma y agregar únicamente un letrero físico MUFASA. Estas propuestas no confirman ubicaciones históricas.

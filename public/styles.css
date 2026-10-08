@@ -15,3 +15,8 @@
 .team-banner img{height:650px;object-fit:contain}
 @media(max-width:1100px) and (min-width:701px){.hero{grid-template-columns:48% 52%;height:620px}.hero-content.wrap{padding:40px 24px 40px 36px}.hero h1{font-size:clamp(2.7rem,5.1vw,3.6rem)}}
 @media(max-width:700px){.hero{display:flex;flex-direction:column;height:auto;max-height:none;min-height:0;overflow:hidden}.hero-photo{height:auto;aspect-ratio:4/3;width:100%;flex:none;object-fit:contain;order:0}.hero-content.wrap{order:1;width:100%;height:auto;padding:30px 20px 38px}.hero h1{font-size:clamp(2.75rem,10.3vw,4.5rem)}.hero-credit{display:none}.card-image{aspect-ratio:4/3}.team-banner img{height:auto;max-height:520px}}
+
+/* Show the full cinema stand in the first Light Cycle feature. */
+.atelier-image img{height:auto;max-height:560px;min-height:0;object-fit:contain}
+.hero-photo{object-position:center}
+@media(max-width:700px){.hero-photo{aspect-ratio:auto;max-height:620px;height:auto;object-position:center}}

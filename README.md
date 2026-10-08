@@ -26,6 +26,8 @@ Repositorio `AlexKongMx/Pipitik`, rama `main`. Comando `npm run build`. Director
 
 ## Recursos y contenidos por completar
 
+- Lalo Moreno ya está incluido en el equipo con una ficha de escultura y modelado. Pendiente retrato confirmado; se muestra un monograma temporal, sin atribuirle una fotografía de otra persona.
+- Propuestas de imágenes héroe AI en revisión: https://drive.google.com/drive/folders/1ZuxIALBi3Ut62YWTz_XCtNjIElAQuoue. Mantener las fotografías actuales hasta que Alex elija las variantes.
 - El pasillo de Alien ya tiene una fotografía; faltan las imágenes adicionales de proceso y la otra pieza que Alex mencionó.
 - Joel: confirmar apellido, cargo y biografía. El CV cronológico sin firma de la carpeta no se ha atribuido a una persona.
 - Validar las biografías resumidas y los textos de proyectos con el taller; no se han añadido créditos ni especificaciones no confirmados.

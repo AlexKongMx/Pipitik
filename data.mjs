@@ -16,6 +16,7 @@ export const projects=[
 ];
 export const team=[
 {name:'Ernesto Sarabia',role:'Dirección y producción',portrait:'/assets/ernesto.webp',bio:'Diseñador gráfico y director de arte. Su trayectoria reúne museografía, producción y dirección de estudio: trabajó como jefe de estudio en Rabia Studios y como productor y director de arte en Goma Producciones. Desde 2023 dirige Pipitik.'},
+{name:'Lalo Moreno',role:'Escultura y modelado',portrait:null,initials:'LM',bio:'Escultor dedicado a la creación de personajes, criaturas y piezas a escala. Su trabajo reúne modelado, anatomía, texturas, moldes y réplicas, del primer volumen al acabado final.'},
 {name:'Ariadne Orozco',role:'Escultura y diseño',portrait:'/assets/ariadne.webp',bio:'Escultora y diseñadora con experiencia en bronce, resina, porcelana y cerámica. Su trabajo abarca retratos, personajes y obra original. Ha realizado piezas para Disney, Warner Brothers y colecciones privadas, y ha dirigido el taller de Morton Porcelana.'},
 {name:'Gonzalo Lugo',role:'Jefe de decoración',portrait:'/assets/gonzalo.webp',bio:'Artista de pintura y escultura. Su práctica reúne trabajo de superficie, color y volumen; en el taller, su oficio de decoración da a las piezas su carácter y acabado final.'},
 {name:'Joel',role:'Equipo del taller',portrait:'/assets/joel.webp',bio:'Joel forma parte del equipo de Pipitik y del trabajo cotidiano del taller.'}

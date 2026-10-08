@@ -26,8 +26,8 @@ Repositorio `AlexKongMx/Pipitik`, rama `main`. Comando `npm run build`. Director
 
 ## Recursos y contenidos por completar
 
-- Lalo Moreno ya está incluido en el equipo con una ficha de escultura y modelado. Pendiente retrato confirmado; se muestra un monograma temporal, sin atribuirle una fotografía de otra persona.
-- Propuestas de imágenes héroe AI en revisión: https://drive.google.com/drive/folders/1ZuxIALBi3Ut62YWTz_XCtNjIElAQuoue. Mantener las fotografías actuales hasta que Alex elija las variantes.
+- Lalo Moreno está incluido con biografía y retrato en blanco y negro basado en las fotografías identificadas por Alex.
+- Archivo de propuestas AI: https://drive.google.com/drive/folders/1ZuxIALBi3Ut62YWTz_XCtNjIElAQuoue. Las imágenes autorizadas en la actualización visual están integradas; las demás permanecen disponibles para revisión.
 - El pasillo de Alien ya tiene una fotografía; faltan las imágenes adicionales de proceso y la otra pieza que Alex mencionó.
 - Joel: confirmar apellido, cargo y biografía. El CV cronológico sin firma de la carpeta no se ha atribuido a una persona.
 - Validar las biografías resumidas y los textos de proyectos con el taller; no se han añadido créditos ni especificaciones no confirmados.
@@ -38,3 +38,10 @@ Repositorio `AlexKongMx/Pipitik`, rama `main`. Comando `npm run build`. Director
 ## Validación
 
 Revisar `npm run build`, rutas directas, seis tarjetas de portada, trece tarjetas del catálogo, imágenes, navegación móvil, lightbox y ausencia de desbordamiento horizontal.
+
+
+## Actualización visual — 2026-10-08
+
+Héroes autorizados por Alex: Hulk con foto real in situ; The Last of Us, Demogorgon, ballena, Blue Demon y Trono de Hierro con las propuestas AI seleccionadas. Mufasa recreado sobre el carro alegórico original, en Reforma frente al Ángel, usando referencias de instalación y construcción. Lalo tiene retrato AI basado en las fotos identificadas por Alex, con la misma dirección de fotografía del equipo.
+
+Robin conserva su foto real en Bellas Artes: la nueva generación en esa ubicación fue rechazada por el generador. Tarjetas y héroes muestran la pieza completa; la portada separa imagen y texto en escritorio y móvil.

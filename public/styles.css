@@ -22,3 +22,17 @@
 
 /* Show the full cinema stand in the first Light Cycle feature. */
 .atelier-image img{height:auto;max-height:560px;min-height:0;object-fit:contain}
+
+/* Neighbouring projects, with recognisable thumbnails. */
+.project-navigation{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:32px;padding-block:32px 88px;border-top:1px solid #bb2629}
+.project-neighbor{display:flex;align-items:center;gap:24px;padding:16px;background:#1b1b1b;min-width:0;transition:background .2s}
+.project-neighbor:hover{background:#252525}
+.neighbor-image{width:136px;aspect-ratio:4/3;flex-shrink:0;overflow:hidden;background:#111}
+.neighbor-image img{width:100%;height:100%;object-fit:cover;transition:transform .3s}
+.project-neighbor:hover img{transform:scale(1.04)}
+.neighbor-copy{min-width:0}
+.neighbor-copy .eyebrow{display:block;color:#ff5559;font-size:.72rem;letter-spacing:.1em;margin-bottom:10px}
+.neighbor-copy h2{font-size:clamp(1.5rem,2.5vw,2.7rem);line-height:1.15;overflow-wrap:anywhere}
+.project-neighbor-next{text-align:right;flex-direction:row-reverse}
+@media(max-width:1000px){.project-navigation{gap:20px}.project-neighbor{gap:16px;padding:12px}.neighbor-image{width:100px}.neighbor-copy .eyebrow{font-size:.65rem}}
+@media(max-width:700px){.project-navigation{grid-template-columns:1fr;gap:16px;padding-block:24px 56px}.neighbor-image{width:104px}.neighbor-copy h2{font-size:1.65rem}.neighbor-copy .eyebrow{font-size:.68rem}}

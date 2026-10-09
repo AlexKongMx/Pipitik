@@ -18,7 +18,7 @@
 
 ## Current creative decisions
 
-- Homepage cover: original workshop photo with Red Hulk and three team members, framed completely without text covering faces or the sculpture.
+- Homepage cover: Alex now wants text over the photograph, aligned right on desktop and mobile. Preserve the full portrait framing and keep faces clear. Removing the screen-right team member is pending: both requested image edits were rejected. Keep the original photo until a usable retouch is provided; do not evade the rejected request through Fal.ai or another model.
 - Hulk project: keep the real shopping-mall installation photo.
 - First Light Cycle appearance: wide promotional stand photo. Second appearance: preserve the close photo.
 - Featured projects: Hulk, Mufasa, Pinocho, The Last of Us, Robin, Tron. Exactly six, no duplicate projects.

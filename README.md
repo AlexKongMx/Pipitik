@@ -37,6 +37,8 @@ Repositorio `AlexKongMx/Pipitik`, rama `main`. Comando `npm run build`. Director
 
 ## Validación
 
+En Deploy Preview se generan rutas sin enlace `_preview-checks/360/`, `_preview-checks/390/`, `_preview-checks/700/` y `_preview-checks/1440/` para revisar la página dentro de un viewport real de ese ancho. No se generan en producción.
+
 Revisar `npm run build`, rutas directas, seis tarjetas de portada, trece tarjetas del catálogo, imágenes, navegación móvil, lightbox y ausencia de desbordamiento horizontal.
 
 
@@ -44,7 +46,7 @@ Revisar `npm run build`, rutas directas, seis tarjetas de portada, trece tarjeta
 
 Héroes autorizados por Alex: Hulk con foto real in situ; The Last of Us, Demogorgon, ballena, Blue Demon y Trono de Hierro con las propuestas AI seleccionadas. Mufasa recreado sobre el carro alegórico original, en Reforma frente al Ángel, usando referencias de instalación y construcción. Lalo tiene retrato AI basado en las fotos identificadas por Alex, con la misma dirección de fotografía del equipo.
 
-Robin conserva su foto real en Bellas Artes: la nueva generación en esa ubicación fue rechazada por el generador. Tarjetas y héroes muestran la pieza completa; la portada separa imagen y texto en escritorio y móvil.
+Robin conserva su foto real en Bellas Artes: la nueva generación en esa ubicación fue rechazada por el generador. Tarjetas y héroes muestran la pieza completa; la portada ahora lleva texto sobre la imagen, alineado a la derecha en escritorio y móvil.
 
 
 ## Política de trabajo — 8 octubre 2026
@@ -56,3 +58,5 @@ Tablero: https://trello.com/b/m2b9JcBy. Consultas y modificaciones exclusivament
 Esta revisión usa el Hulk con el equipo en portada y conserva el Hulk en plaza dentro del proyecto. Tron muestra primero el stand promocional abierto; su tarjeta mantiene la toma cercana. Last of Us se recrea en una convención y Pinocho en un lobby de cine. Mufasa incorpora un letrero y entra a los seis destacados. Alien y los retratos se conservan.
 
 Imágenes generadas con la herramienta integrada a partir de referencias del proyecto. Assets: `public/assets/the-last-of-us-hero-convention-ai.webp`, `public/assets/pinocho-hero-cinema-ai.webp`, `public/assets/mufasa-hero-reforma-title-ai.webp`. Direcciones de prompt: preservar la escultura de Last of Us y trasladar su stand a Comic-Con; preservar el busto, nariz y gráfica de Pinocho en un cine; preservar el carro de Mufasa en Reforma y agregar únicamente un letrero físico MUFASA. Estas propuestas no confirman ubicaciones históricas.
+
+La eliminación de la persona de la derecha en la portada sigue pendiente: el generador rechazó ambas ediciones. Se conserva la fotografía original y no se repite la solicitud rechazada con otros modelos. Fal.ai queda disponible para otras generaciones, sin créditos gastados en estos intentos.

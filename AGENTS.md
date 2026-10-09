@@ -18,7 +18,7 @@
 
 ## Current creative decisions
 
-- Homepage cover: Alex now wants text over the photograph, aligned right on desktop and mobile. Preserve the full portrait framing and keep faces clear. Removing the screen-right team member is pending: both requested image edits were rejected. Keep the original photo until a usable retouch is provided; do not evade the rejected request through Fal.ai or another model.
+- Homepage cover: Alex wants a full-width 21:9 panorama above the fold, crop excess ceiling/floor, subtle artistic grading, and text at TOP RIGHT. The hero must fit beneath the header without scrolling. Mobile adapts to the available first viewport and keeps faces clear. Person removal and photographic lateral expansion remain pending: requested edits were rejected, including a separate panorama edit retaining all three people. The current preview uses a softly blurred backdrop from the same original photo, not generated lateral detail. Do not evade rejected edits through Fal.ai or another model.
 - Hulk project: keep the real shopping-mall installation photo.
 - First Light Cycle appearance: wide promotional stand photo. Second appearance: preserve the close photo.
 - Featured projects: Hulk, Mufasa, Pinocho, The Last of Us, Robin, Tron. Exactly six, no duplicate projects.

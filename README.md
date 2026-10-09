@@ -60,3 +60,7 @@ Esta revisión usa el Hulk con el equipo en portada y conserva el Hulk en plaza 
 Imágenes generadas con la herramienta integrada a partir de referencias del proyecto. Assets: `public/assets/the-last-of-us-hero-convention-ai.webp`, `public/assets/pinocho-hero-cinema-ai.webp`, `public/assets/mufasa-hero-reforma-title-ai.webp`. Direcciones de prompt: preservar la escultura de Last of Us y trasladar su stand a Comic-Con; preservar el busto, nariz y gráfica de Pinocho en un cine; preservar el carro de Mufasa en Reforma y agregar únicamente un letrero físico MUFASA. Estas propuestas no confirman ubicaciones históricas.
 
 La eliminación de la persona de la derecha en la portada sigue pendiente: el generador rechazó ambas ediciones. Se conserva la fotografía original y no se repite la solicitud rechazada con otros modelos. Fal.ai queda disponible para otras generaciones, sin créditos gastados en estos intentos.
+
+## Portada panorámica — revisión del 8 octubre
+
+Portada a todo el ancho y limitada al alto disponible bajo el encabezado; texto arriba a la derecha. En escritorio el lienzo usa 21:9 cuando el viewport lo permite. El original se conserva, se recorta techo y piso mediante CSS y recibe contraste/color moderados. Laterales suavizados a partir de la misma foto como solución provisional. La extensión fotográfica real y quitar a la persona de la derecha siguen pendientes: el generador rechazó la edición y también una petición separada que conservaba a las tres personas. No confundir el fondo provisional con una extensión AI terminada.

@@ -61,7 +61,7 @@ Imágenes generadas con la herramienta integrada a partir de referencias del pro
 
 ## Portada — imagen proporcionada por Alex
 
-La portada usa `public/assets/studio-cover-alex.jpg`, imagen enviada por Alex el 8 de octubre a las 19:01. Se conserva el archivo exacto y su proporción 1872:1056. El texto se coloca sobre el espacio libre de pared abajo a la derecha, debajo del puño, con sombreado CSS suave para facilitar lectura. La imagen completa cabe debajo del encabezado en el primer viewport; en móvil se mantiene el mismo encuadre y un título/botón compacto.
+La portada usa `public/assets/studio-cover-alex-wide.jpg`, panorámica enviada por Alex el 9 de octubre (2048×877). Se conserva el archivo exacto. La foto llena todo el ancho sin franjas negras; `object-fit: cover` evita barras en pantallas anchas y bajas. El bloque de texto grande se coloca sobre la pared libre a la derecha, debajo del puño, con sombreado CSS suave. La portada cabe debajo del encabezado en el primer viewport de escritorio; móvil conserva foto panorámica, título y botón sobre ella.
 
 El montaje Fal/manual anterior fue rechazado por Alex y ya no se muestra. `ops/cover-assets.json` y `ops/prepare-cover.py` conservan el historial de aquella prueba, no la portada actual. No generar ni retocar esta nueva fotografía. **DO NOT PUSH TO MAIN**.
 

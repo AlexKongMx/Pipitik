@@ -24,7 +24,7 @@
 
 ## Current creative decisions
 
-- Homepage cover: use Alex's supplied image from October 8, 19:01, public/assets/studio-cover-alex.jpg. Preserve its exact image bytes and natural 1872:1056 framing. Place text in the empty lower-right wall below the raised fist, clear of faces and sculpture. Fit the whole photo beneath the header; only use CSS shading for legibility. Do not reuse the rejected Fal/manual montage or run ops/prepare-cover.py for this cover. Keep deployments preview-only.
+- Homepage cover: use Alex's supplied panoramic image from October 9, public/assets/studio-cover-alex-wide.jpg (2048×877). Preserve its exact image bytes. Fill the hero edge to edge with no black bars; use object-fit:cover when viewport height requires a shallow crop. Keep the hero beneath the header and above the fold on desktop. Large right-aligned text fills the clear wall below/right of the fist, clear of faces. Only CSS shading for legibility. Do not reuse the rejected montage or run ops/prepare-cover.py. Preview only.
 - Hulk project: keep the real shopping-mall installation photo.
 - First Light Cycle appearance: wide promotional stand photo. Second appearance: preserve the close photo.
 - Featured projects: Hulk, Mufasa, Pinocho, The Last of Us, Robin, Tron. Exactly six, no duplicate projects.

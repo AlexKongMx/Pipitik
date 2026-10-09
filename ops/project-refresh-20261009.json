@@ -1,0 +1,305 @@
+{
+  "heroes": {
+    "robin": "/assets/robin-hero-alex.webp",
+    "spiderman": "/assets/spiderman-hero-alex.webp",
+    "proximus-caesar": "/assets/proximus-caesar-hero-location-ai.webp",
+    "checoneta": "/assets/1vHSwFwftYf2yEEEAjWqVyoT3_y4gixHf.webp",
+    "diorama-mamut": "/assets/mamut-hero-exhibicion.webp",
+    "rancor": "/assets/1OFVOwLLhdjmHhEh0ul6tLZJdFGJ-ZNJW.webp"
+  },
+  "selected": [
+    {
+      "source": "Drive",
+      "id": "1vHSwFwftYf2yEEEAjWqVyoT3_y4gixHf",
+      "alt": "La Checoneta instalada en su exhibición promocional"
+    },
+    {
+      "source": "Drive",
+      "id": "1fo66IlHthkTjch19BNAn8jRiwaHfLvr-",
+      "alt": "Diorama de mamut terminado en exhibición"
+    },
+    {
+      "source": "Drive",
+      "id": "1OFVOwLLhdjmHhEh0ul6tLZJdFGJ-ZNJW",
+      "alt": "Rancor en una convención, con visitantes caracterizados"
+    },
+    {
+      "source": "Drive",
+      "id": "1-_3G0lDmyKY3Dyrpb659JMWoB7W2J_pk",
+      "project": "CHECONETA",
+      "title": "c9da4325-134d-4cfc-a7a4-5920c109b74c.JPG",
+      "alt": "La Checoneta terminada, vista de tres cuartos"
+    },
+    {
+      "source": "Drive",
+      "id": "1DrCfpTjr91Cap8l6HNwFTk-ZWL7-UF1c",
+      "alt": "Vista lateral de la carrocería terminada en el taller"
+    },
+    {
+      "source": "Drive",
+      "id": "1iqDWniQS0KoGBiswjAO74ZAw1TYR1i06",
+      "project": "CHECONETA",
+      "title": "IMG_6060.HEIC",
+      "alt": "Construcción de la carrocería en espuma"
+    },
+    {
+      "source": "Drive",
+      "id": "1-xBhJifBN7Dcq3v5xItO5fO1ilM90V5n",
+      "project": "CHECONETA",
+      "title": "IMG_6118.HEIC",
+      "alt": "Modelado de la parte frontal"
+    },
+    {
+      "source": "Drive",
+      "id": "1b8canGC3k2ACoKnlTA1_lpcM9sKlnM3s",
+      "project": "CHECONETA",
+      "title": "IMG_6150.HEIC",
+      "alt": "Trabajo manual de superficie en el frente"
+    },
+    {
+      "source": "Drive",
+      "id": "1369pftJoh5r4XU38dMb6N_OyRUTkxLBr",
+      "project": "CHECONETA",
+      "title": "IMG_6224.HEIC",
+      "alt": "Preparación de la carrocería antes de pintar"
+    },
+    {
+      "source": "Drive",
+      "id": "11LShLfO9Zyn8eZPVTZElN6mPOZ_Jkexd",
+      "alt": "Aplicación del acabado blanco durante el traslado"
+    },
+    {
+      "source": "Drive",
+      "id": "1RZWgtEpcNhMch1xrx1sQWhmreEU_zKEJ",
+      "project": "CHECONETA",
+      "title": "c0718cd1-034e-426a-a6fa-fcea2bdb2a05.JPG",
+      "alt": "Pintura amarilla y protección de ventanas"
+    },
+    {
+      "source": "Drive",
+      "id": "1lMys7Q46yaop5_Advivima9xRrjGrTTD",
+      "alt": "Trabajo del equipo en la pintura de la carrocería"
+    },
+    {
+      "source": "Drive",
+      "id": "1qJ8j6hrW2sfaaaLCcj1a9z2Qmvqyl-vL",
+      "project": "CHECONETA",
+      "title": "dac40323-e704-4c6a-9451-d0a9c3416404.JPG",
+      "alt": "Detalle del acabado azul y amarillo"
+    },
+    {
+      "source": "Drive",
+      "id": "1W5GczvfSNXX1XVO2u_1Nz2Owmq6ThwPK",
+      "alt": "Traslado de la Checoneta terminada"
+    },
+    {
+      "source": "Drive",
+      "id": "1MYyCBNZO-eASw3ulc36oRA0oP7tzXmye",
+      "alt": "Vista lateral del mamut y el paisaje del diorama"
+    },
+    {
+      "source": "Drive",
+      "id": "10uXs9qLN10vIWIzCDaS52nqVciSYNOpb",
+      "alt": "El diorama en el recorrido de la exposición"
+    },
+    {
+      "source": "Drive",
+      "id": "1HGUdnBRoFFTCw2z68a9q0olmht_VqbqN",
+      "alt": "Modelo de mamut y piezas de molde en el taller"
+    },
+    {
+      "source": "Drive",
+      "id": "1shChLCu_XHBc6s89gkQT29dr5tGpAdYY",
+      "alt": "Estudio de composición de una manada de mamuts"
+    },
+    {
+      "source": "Drive",
+      "id": "1l8yO0kbk9CXe5RejP-Vg0R7IiRdYAWCr",
+      "alt": "Rancor y su escala frente a un visitante"
+    },
+    {
+      "source": "Drive",
+      "id": "1sYvoUxXoFM4rZ7FC7daBLV3PDEV29LFk",
+      "alt": "Modelado del perfil de la cabeza"
+    },
+    {
+      "source": "Drive",
+      "id": "1-NTBIoVo4rchqGRnSlPdX-WiJr0LOMaL",
+      "alt": "Trabajo de la boca y la lengua durante el modelado"
+    },
+    {
+      "source": "Drive",
+      "id": "1UQVtUnG3b7wLBlAU8irz9YY-YzG17fVQ",
+      "alt": "Detalle del ojo y los pliegues de la piel"
+    },
+    {
+      "source": "Drive",
+      "id": "1QCMEss59n6ul9Tjb0PpHGKrG0UL8hgjy",
+      "alt": "Cabeza del Rancor con el acabado de color"
+    },
+    {
+      "source": "Drive",
+      "id": "1Kkuxx02rfNue5lIBX2pVNy-lxP_mZ3eO",
+      "alt": "Preparación y pintura del cuerpo en el patio"
+    },
+    {
+      "source": "Drive",
+      "id": "1LFh8JmnVmN38B1udof5IHZSVhmRf1pcq",
+      "alt": "Trabajo de pintura en la espalda"
+    },
+    {
+      "source": "Drive",
+      "id": "1MCxhkkUBH3HXadfbh1_dTuaLZyXgjRzJ",
+      "alt": "Montaje de la escultura en el recinto de exhibición"
+    },
+    {
+      "source": "Drive",
+      "id": "1YiswrABFaLlbYKTiyF-1jhcSlEQPFL1e",
+      "project": "PROXIMUS CAESAR",
+      "title": "proximus-caesar-bts-003.jpg",
+      "alt": "Modelado del rostro del personaje"
+    },
+    {
+      "source": "Drive",
+      "id": "1PzEgpzEmC3JEYjxKsf8bsiA1AJkwPe0m",
+      "project": "PROXIMUS CAESAR",
+      "title": "proximus-caesar-bts-025.jpg",
+      "alt": "Trabajo manual sobre los detalles de la cara"
+    },
+    {
+      "source": "Drive",
+      "id": "1U_Htj6VA4BRnReaKLfJjidiCJp7Td95E",
+      "project": "PROXIMUS CAESAR",
+      "title": "proximus-caesar-bts-005.jpg",
+      "alt": "Moldes y piezas del personaje sobre la mesa"
+    },
+    {
+      "source": "Drive",
+      "id": "114KmwIVVqlEkNFFknfI0tEA9nTomc8md",
+      "project": "PROXIMUS CAESAR",
+      "title": "proximus-caesar-bts-011.jpg",
+      "alt": "Ensamblaje del trono antes de pintar"
+    },
+    {
+      "source": "Drive",
+      "id": "1KSgzZam-ZIWWaOj5H7o1vOkr1dG_7qyv",
+      "project": "PROXIMUS CAESAR",
+      "title": "proximus-caesar-bts-014.jpg",
+      "alt": "Acabado del trono en el taller"
+    },
+    {
+      "source": "Drive",
+      "id": "12LYpKWKt2MBYVQ3g63WwuuKHAQx4Tdn-",
+      "project": "PROXIMUS CAESAR",
+      "title": "proximus-caesar-bts-028.jpg",
+      "alt": "Construcción de la roca que sostiene el conjunto"
+    },
+    {
+      "source": "Drive",
+      "id": "1zRZavzuwBpE8GlBJ22BAOvwYv4_D6pwi",
+      "project": "TRON",
+      "title": "fb-10223817334461217.jpg",
+      "alt": "Light Cycle de Tron: Ares instalada en un cine"
+    },
+    {
+      "source": "Drive",
+      "id": "1xrh-3QfmfxW1ZuDbF9VD_EMpV9T-LxUZ",
+      "project": "TRON",
+      "title": "0b71319e-de94-488c-add3-645a63ff9012.JPG",
+      "alt": "Modelo digital de la Light Cycle de Tron: Ares"
+    },
+    {
+      "source": "Drive",
+      "id": "1wt84eLd7qqg53dwKMhAFMYgu7F4DsZGx",
+      "project": "TRON",
+      "title": "IMG_1100.jpg",
+      "alt": "Ensamblaje de la carrocería en el taller"
+    },
+    {
+      "source": "Drive",
+      "id": "14TdRkW-NeAWPj_yjBSq_pQ6H_zHdYU-j",
+      "project": "TRON",
+      "title": "ba55ca93-0ba8-431f-b567-245f6d638a13.JPG",
+      "alt": "Pintura de una rueda de Tron: Ares"
+    },
+    {
+      "source": "Drive",
+      "id": "1gUjA1oMVhf-wVT45-uu5akGbnNQuZohI",
+      "project": "ALIEN",
+      "title": "Screen Shot 2026-09-09 at 12.55.03 PM.png",
+      "alt": "Escultura completa de Alien antes del acabado"
+    },
+    {
+      "source": "Drive",
+      "id": "1ilMWCswyu9jf1QWFs5-v4dgKSDViAokb",
+      "project": "REDHULK",
+      "title": "IMG_9630.HEIC",
+      "alt": "Detalle del modelado y acabado de Red Hulk"
+    },
+    {
+      "source": "Drive",
+      "id": "1TeAm23-HtRSP0BJKDH954d6Dk753-B36",
+      "project": "REDECORADO HULK",
+      "title": "fb-10225682454088042.jpg",
+      "alt": "Torso de Hulk verde antes de la pintura"
+    },
+    {
+      "source": "Drive",
+      "id": "1s-JYLQz4JN63gxmZm8j6LGjA3EatWLk5",
+      "project": "MUFASSA",
+      "title": "IMG_8680.HEIC",
+      "alt": "El equipo trabajando el modelado de Mufasa"
+    },
+    {
+      "source": "Drive",
+      "id": "1U-Z4WSjLGOYHHXzHLE_RHJlH8jM_o47R",
+      "project": "MUFASSA",
+      "title": "fb-10226808516478898.webp",
+      "alt": "Trabajo manual de textura en el rostro de Mufasa"
+    },
+    {
+      "source": "Drive",
+      "id": "1Huae7e696MK-525L5CR7AYHHs-z12YVX",
+      "project": "MUFASSA",
+      "title": "031398EE-FD5F-43D6-8AFB-C0AE63D39C5A.JPG",
+      "alt": "Trabajo de superficie y ensamblaje del cuerpo"
+    },
+    {
+      "source": "Drive",
+      "id": "1h8-GSQzzAs1JCNzXgJAK770ZSA0BCHMz",
+      "project": "BALLENA",
+      "title": "fb-10225667962485761.jpg",
+      "alt": "Volumen completo de la ballena durante su construcción"
+    },
+    {
+      "source": "Drive",
+      "id": "1cNTAyCeo3qiwcdR2MgSKjg9V035U1lQW",
+      "project": "BALLENA",
+      "title": "fb-10225653381161237.jpg",
+      "alt": "Modelado y ensamblaje de los dientes"
+    },
+    {
+      "source": "Drive",
+      "id": "1Qx9zgLEj9L4bHHbRBgKUEUVGkN5xbHfU",
+      "project": "BLUE DEMON JR",
+      "title": "IMG_8747.HEIC",
+      "alt": "Blue Demon Jr. terminado, visto de cuerpo completo"
+    },
+    {
+      "source": "Drive",
+      "id": "1jZhiHIIxhh8RznxvBHJaRig8_SOtAerI",
+      "project": "TRONO",
+      "title": "Screen Shot 2026-09-09 at 12.40.01 PM.png",
+      "alt": "Trono de Hierro terminado en el taller"
+    }
+  ],
+  "proximus": {
+    "model": "built-in imagegen",
+    "direction": "slightly low angle professional photo, preserve sculpture and actual display reference",
+    "references": [
+      "1skJRT0qwKdxuZ4VvQ1IsKH9R0EA-lFKW"
+    ]
+  },
+  "rancor_web_search": "No verified stronger photograph of this installation found. Only project Drive images used.",
+  "excluded": "Social media UI overlays, duplicated frames, unrelated bear model and weak screenshots."
+}

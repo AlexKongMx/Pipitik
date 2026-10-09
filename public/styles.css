@@ -2,16 +2,56 @@
 
 .portrait-monogram{width:100%;height:100%;min-height:360px;display:grid;place-items:center;background:linear-gradient(135deg,#343434,#181818);color:#bdbdbd;font-family:Anton,Arial,sans-serif;font-size:clamp(5rem,10vw,9rem);letter-spacing:.04em}
 
-/* Keep the exhibition photo and copy in separate regions. */
-.hero{display:grid;grid-template-columns:46% 54%;height:clamp(640px,47vw,820px);min-height:0;background:#151515;overflow:visible}
-.hero-photo{position:relative;inset:auto;grid-column:2;grid-row:1;z-index:0;object-fit:contain;object-position:center;width:100%;height:100%;min-height:0;background:#1a1a1a}
-.hero-content.wrap{grid-column:1;grid-row:1;width:100%;margin:0;padding:clamp(36px,5vw,80px) 32px clamp(40px,5vw,80px) max(36px,calc((100vw - 1320px)/2));justify-content:center;z-index:1}
-.hero h1{font-size:clamp(3.1rem,5.15vw,5.75rem)}
-.hero-credit{z-index:2;background:#111b;padding:6px 10px;right:20px;bottom:14px}
+/* Alex's supplied photo; typography uses the open wall below the fist. */
+.hero{--header-height:106px;display:block;position:relative;width:100%;height:auto;aspect-ratio:2048/877;min-height:0;max-height:calc(100svh - var(--header-height));background:#111;overflow:hidden;isolation:isolate}
+.hero-photo-frame{position:absolute;inset:0;display:block;width:100%;height:100%;z-index:0}
+.hero-photo{position:absolute;inset:0;width:100%;height:100%;max-height:none;object-fit:cover;object-position:center;z-index:0}
+.hero::after{content:"";position:absolute;inset:0;z-index:1;pointer-events:none;background:radial-gradient(ellipse at right bottom,rgba(0,0,0,.72),rgba(0,0,0,.35) 25%,transparent 57%)}
+.hero-content.wrap{position:absolute;inset:auto 0 0 auto;width:33%;height:auto;margin:0;padding:clamp(14px,2.2vw,44px);align-items:flex-end;justify-content:flex-end;text-align:right;z-index:2;background:none;text-shadow:0 2px 14px #0008;padding-bottom:1.4vw}
+.hero h1{font-size:min(6.5vw,12.4svh);line-height:1.08;white-space:nowrap}
+.hero-content .eyebrow{font-size:clamp(.6rem,.85vw,.9rem);letter-spacing:.14em;margin-bottom:10px}
+.hero-description{font-size:clamp(.85rem,1.35vw,1.65rem);margin:12px 0 14px;line-height:1.45}
+.hero-credit{display:none}
 .card-image{aspect-ratio:4/3}
 .card-image-full img{object-fit:contain;object-position:center}
 .project-hero img{height:auto;min-height:0;max-height:820px;object-fit:contain}
 .team-banner{height:auto;max-height:650px;background:#191919}
 .team-banner img{height:650px;object-fit:contain}
-@media(max-width:1100px) and (min-width:701px){.hero{grid-template-columns:48% 52%;height:620px}.hero-content.wrap{padding:40px 24px 40px 36px}.hero h1{font-size:clamp(2.7rem,5.1vw,3.6rem)}}
-@media(max-width:700px){.hero{display:flex;flex-direction:column;height:auto;max-height:none;min-height:0;overflow:hidden}.hero-photo{height:auto;aspect-ratio:4/3;width:100%;flex:none;object-fit:contain;order:0}.hero-content.wrap{order:1;width:100%;height:auto;padding:30px 20px 38px}.hero h1{font-size:clamp(2.75rem,10.3vw,4.5rem)}.hero-credit{display:none}.card-image{aspect-ratio:4/3}.team-banner img{height:auto;max-height:520px}}
+@media(max-width:700px){.hero{--header-height:88px;width:100%;height:auto;aspect-ratio:2048/877;min-height:0;max-height:calc(100svh - var(--header-height))}.hero-content.wrap{width:33%;height:auto;padding:8px 9px}.hero h1{font-size:6.5vw;line-height:1.08}.hero-content .eyebrow,.hero-description{display:none}.hero .button{padding:8px 9px;min-height:32px;font-size:.62rem;white-space:nowrap;margin-top:12px}.card-image{aspect-ratio:4/3}.team-banner img{height:auto;max-height:520px}}
+@media(max-height:600px) and (min-width:701px){.hero h1{font-size:min(6.5vw,12.4svh)}.hero-content.wrap{padding:18px 30px}.hero-content .eyebrow{font-size:.65rem;margin-bottom:8px}.hero-description{font-size:.85rem;margin:8px 0 12px}.hero .button{min-height:42px;padding:10px 20px}}
+
+/* Show the full cinema stand in the first Light Cycle feature. */
+.atelier-image img{height:auto;max-height:560px;min-height:0;object-fit:contain}
+
+/* Neighbouring projects, with recognisable thumbnails. */
+.project-navigation{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:32px;padding-block:32px 88px;border-top:1px solid #bb2629}
+.project-neighbor{display:flex;align-items:center;gap:24px;padding:16px;background:#1b1b1b;min-width:0;transition:background .2s}
+.project-neighbor:hover{background:#252525}
+.neighbor-image{width:136px;aspect-ratio:4/3;flex-shrink:0;overflow:hidden;background:#111}
+.neighbor-image img{width:100%;height:100%;object-fit:cover;transition:transform .3s}
+.project-neighbor:hover img{transform:scale(1.04)}
+.neighbor-copy{min-width:0}
+.neighbor-copy .eyebrow{display:block;color:#ff5559;font-size:.72rem;letter-spacing:.1em;margin-bottom:10px}
+.neighbor-copy h2{font-size:clamp(1.5rem,2.5vw,2.7rem);line-height:1.15;overflow-wrap:anywhere}
+.project-neighbor-next{text-align:right;flex-direction:row-reverse}
+@media(max-width:1000px){.project-navigation{gap:20px}.project-neighbor{gap:16px;padding:12px}.neighbor-image{width:100px}.neighbor-copy .eyebrow{font-size:.65rem}}
+@media(max-width:700px){.project-navigation{grid-template-columns:1fr;gap:16px;padding-block:24px 56px}.neighbor-image{width:104px}.neighbor-copy h2{font-size:1.65rem}.neighbor-copy .eyebrow{font-size:.68rem}}
+
+/* Compact galleries; the viewer always opens the larger source. */
+.gallery{grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
+.gallery-item img,.gallery-item:last-child:nth-child(odd) img{height:auto;min-height:0;max-height:none;aspect-ratio:4/3;object-fit:contain}
+.gallery-item:last-child:nth-child(odd){grid-column:auto}
+.gallery-item span{padding:12px 14px;font-size:.75rem}
+.project-hero-open{display:block;position:relative;width:100%;border:0;padding:0;background:transparent;cursor:zoom-in;color:#fff}
+.project-hero-open span{position:absolute;right:20px;bottom:20px;padding:10px 14px;background:#111c;font:12px Arial,sans-serif}
+.lightbox{width:1280px;padding:64px 72px 24px;overflow:hidden}
+.lightbox img{height:calc(88svh - 140px);max-height:760px;object-fit:contain}
+.lightbox-footer{display:flex;align-items:center;justify-content:space-between;gap:24px;margin-top:16px}
+.lightbox-footer p{margin:0;line-height:1.4}
+.lightbox-caption{text-align:left!important}
+.lightbox-count{white-space:nowrap;font-variant-numeric:tabular-nums}
+.lightbox-arrow{position:absolute;top:45%;width:48px;height:56px;border:1px solid #555;background:#222;color:#fff;font-size:26px;cursor:pointer}
+.lightbox-arrow:hover{background:#f32429;color:#111}
+.lightbox-arrow[hidden]{display:none}
+.lightbox-previous{left:12px}.lightbox-next{right:12px}
+@media(max-width:700px){.gallery{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.gallery-item span{padding:10px;font-size:.65rem}.project-process{padding-bottom:44px}.project-hero-open span{right:12px;bottom:12px;padding:8px;font-size:11px}.lightbox{padding:60px 12px 76px}.lightbox img{height:calc(80svh - 180px);max-height:none}.lightbox-arrow{top:auto;bottom:12px;width:48px;height:44px}.lightbox-previous{left:12px}.lightbox-next{right:12px}.lightbox-footer{gap:12px;margin-top:16px}.lightbox-footer p{font-size:.75rem}}

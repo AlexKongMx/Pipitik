@@ -2,6 +2,11 @@ const menu=document.querySelector('.menu-toggle');const nav=document.querySelect
 function closeMenu(){menu?.setAttribute('aria-expanded','false');menu?.setAttribute('aria-label','Abrir menú');nav?.classList.remove('open')}
 menu?.addEventListener('click',()=>{const open=menu.getAttribute('aria-expanded')!=='true';menu.setAttribute('aria-expanded',String(open));menu.setAttribute('aria-label',open?'Cerrar menú':'Abrir menú');nav.classList.toggle('open',open)});
 nav?.querySelectorAll('a').forEach(a=>a.addEventListener('click',closeMenu));document.addEventListener('keydown',e=>{if(e.key==='Escape')closeMenu()});window.addEventListener('resize',()=>{if(window.innerWidth>700)closeMenu()});
-const dialog=document.querySelector('.lightbox');let trigger;
-document.querySelectorAll('[data-photo]').forEach(b=>b.addEventListener('click',()=>{trigger=b;dialog.querySelector('img').src=b.dataset.photo;dialog.querySelector('img').alt=b.querySelector('img').alt;dialog.querySelector('p').textContent=b.dataset.caption;dialog.showModal();document.body.classList.add('modal-open')}));
-dialog?.querySelector('button').addEventListener('click',()=>dialog.close());dialog?.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close()}});dialog?.addEventListener('close',()=>{document.body.classList.remove('modal-open');trigger?.focus()});
+const dialog=document.querySelector('.lightbox');const photos=[...document.querySelectorAll('[data-photo]')];let trigger;let photoIndex=0;
+function showPhoto(index){photoIndex=(index+photos.length)%photos.length;const b=photos[photoIndex];const img=dialog.querySelector('img');img.src=b.dataset.photo;img.alt=b.dataset.alt||b.querySelector('img')?.alt||'';dialog.querySelector('.lightbox-caption').textContent=b.dataset.caption;dialog.querySelector('.lightbox-count').textContent=`${photoIndex+1} / ${photos.length}`;dialog.querySelectorAll('.lightbox-arrow').forEach(a=>a.hidden=photos.length<2)}
+photos.forEach((b,index)=>b.addEventListener('click',()=>{trigger=b;showPhoto(index);dialog.showModal();document.body.classList.add('modal-open')}));
+dialog?.querySelector('.lightbox-close').addEventListener('click',()=>dialog.close());
+dialog?.querySelector('.lightbox-previous').addEventListener('click',()=>showPhoto(photoIndex-1));
+dialog?.querySelector('.lightbox-next').addEventListener('click',()=>showPhoto(photoIndex+1));
+dialog?.addEventListener('keydown',e=>{if(e.key==='ArrowLeft'||e.key==='ArrowRight'){e.preventDefault();showPhoto(photoIndex+(e.key==='ArrowRight'?1:-1))}});
+dialog?.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close()}});dialog?.addEventListener('close',()=>{document.body.classList.remove('modal-open');trigger?.focus()});

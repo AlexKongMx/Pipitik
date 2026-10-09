@@ -1,0 +1,775 @@
+{
+  "direction": "Select distinct, useful photos. Fewer are acceptable when source quality is limited. Do not pad counts.",
+  "sources": {
+    "1pq9XaPpaXotmXNnL35B7fC8tbXlyflow": {
+      "project": "Pinocho netflix",
+      "source_url": "https://drive.google.com/file/d/1pq9XaPpaXotmXNnL35B7fC8tbXlyflow/view?usp=drivesdk",
+      "source_name": "IMG_1128.JPG",
+      "alt": "Pinocho en su exhibición promocional",
+      "asset": "/assets/1pq9XaPpaXotmXNnL35B7fC8tbXlyflow.webp"
+    },
+    "1br6XgEbwTrfxh_7mEkSc-8Gi7pEaze_w": {
+      "project": "Pinocho netflix",
+      "source_url": "https://drive.google.com/file/d/1br6XgEbwTrfxh_7mEkSc-8Gi7pEaze_w/view?usp=drivesdk",
+      "source_name": "IMG_20221130_193310_427.jpg",
+      "alt": "Busto de Pinocho con el acabado terminado en el taller",
+      "asset": "/assets/1br6XgEbwTrfxh_7mEkSc-8Gi7pEaze_w.webp"
+    },
+    "1tGs2L0iz8N0niDyyo95QTQX9xK0nKldX": {
+      "project": "Pinocho netflix",
+      "source_url": "https://drive.google.com/file/d/1tGs2L0iz8N0niDyyo95QTQX9xK0nKldX/view?usp=drivesdk",
+      "source_name": "IMG_1143.JPG",
+      "alt": "Cabeza de Pinocho preparada para el acabado",
+      "asset": "/assets/1tGs2L0iz8N0niDyyo95QTQX9xK0nKldX.webp"
+    },
+    "1N__8dfMzEoVu8dectEMmAY7dkDbo6E3K": {
+      "project": "Pinocho netflix",
+      "source_url": "https://drive.google.com/file/d/1N__8dfMzEoVu8dectEMmAY7dkDbo6E3K/view?usp=drivesdk",
+      "source_name": "IMG_20221126_185132_935.jpg",
+      "alt": "Volumen de la cabeza antes de la pintura",
+      "asset": "/assets/1N__8dfMzEoVu8dectEMmAY7dkDbo6E3K.webp"
+    },
+    "1dd_oDKzp04rmY1o_DAtSiGe5RT3KnLs7": {
+      "project": "Pinocho netflix",
+      "source_url": "https://drive.google.com/file/d/1dd_oDKzp04rmY1o_DAtSiGe5RT3KnLs7/view?usp=drivesdk",
+      "source_name": "IMG_20221126_185200_788.jpg",
+      "alt": "Detalle de los ojos y las líneas del rostro",
+      "asset": "/assets/1dd_oDKzp04rmY1o_DAtSiGe5RT3KnLs7.webp"
+    },
+    "1Oom-rgJfPX-AedUoywZO-bFYTCnsFH-t": {
+      "project": "Pinocho netflix",
+      "source_url": "https://drive.google.com/file/d/1Oom-rgJfPX-AedUoywZO-bFYTCnsFH-t/view?usp=drivesdk",
+      "source_name": "IMG_20221126_205345_006.jpg",
+      "alt": "Relieve del cabello durante el modelado",
+      "asset": "/assets/1Oom-rgJfPX-AedUoywZO-bFYTCnsFH-t.webp"
+    },
+    "1vMM7CWYsCHIZ3S32XA3whsZoMpkMAgyd": {
+      "project": "Pinocho netflix",
+      "source_url": "https://drive.google.com/file/d/1vMM7CWYsCHIZ3S32XA3whsZoMpkMAgyd/view?usp=drivesdk",
+      "source_name": "IMG_20221129_191414_486.jpg",
+      "alt": "Primera capa de pintura de la cabeza",
+      "asset": "/assets/1vMM7CWYsCHIZ3S32XA3whsZoMpkMAgyd.webp"
+    },
+    "1CQAy1rc-dwc1mMYBSFMkCm5UkD7_j1Of": {
+      "project": "Pinocho netflix",
+      "source_url": "https://drive.google.com/file/d/1CQAy1rc-dwc1mMYBSFMkCm5UkD7_j1Of/view?usp=drivesdk",
+      "source_name": "IMG_20221129_205451_168.jpg",
+      "alt": "Pintura de las vetas y el rostro",
+      "asset": "/assets/1CQAy1rc-dwc1mMYBSFMkCm5UkD7_j1Of.webp"
+    },
+    "1mFtJDfzQ3tqlzp6YTjkvAcgPjaI2ajN3": {
+      "project": "Pinocho netflix",
+      "source_url": "https://drive.google.com/file/d/1mFtJDfzQ3tqlzp6YTjkvAcgPjaI2ajN3/view?usp=drivesdk",
+      "source_name": "IMG_20221130_183145_300.jpg",
+      "alt": "Acabado del cabello y los tonos de madera",
+      "asset": "/assets/1mFtJDfzQ3tqlzp6YTjkvAcgPjaI2ajN3.webp"
+    },
+    "18iHBD5qgjRDlcNPwrsX4xLlv3oT152Nu": {
+      "project": "Robin Netflix titanes",
+      "source_url": "https://drive.google.com/file/d/18iHBD5qgjRDlcNPwrsX4xLlv3oT152Nu/view?usp=drivesdk",
+      "source_name": "20190110_174854_Original.jpg",
+      "alt": "Robin terminado en el patio del taller",
+      "asset": "/assets/18iHBD5qgjRDlcNPwrsX4xLlv3oT152Nu.webp"
+    },
+    "1TPPx1gTghsYNhHBbFl73EYZyZnrydUVs": {
+      "project": "Robin Netflix titanes",
+      "source_url": "https://drive.google.com/file/d/1TPPx1gTghsYNhHBbFl73EYZyZnrydUVs/view?usp=drivesdk",
+      "source_name": "20190111_022812.jpg",
+      "alt": "Robin instalado de noche frente a Bellas Artes",
+      "asset": "/assets/1TPPx1gTghsYNhHBbFl73EYZyZnrydUVs.webp"
+    },
+    "1vt5gpVNOKrsG138dWCExJ681Acylpqmn": {
+      "project": "Robin Netflix titanes",
+      "source_url": "https://drive.google.com/file/d/1vt5gpVNOKrsG138dWCExJ681Acylpqmn/view?usp=drivesdk",
+      "source_name": "20181229_144511.jpg",
+      "alt": "Modelado del rostro y el cabello de Robin",
+      "asset": "/assets/1vt5gpVNOKrsG138dWCExJ681Acylpqmn.webp"
+    },
+    "17B9B2m3XqCHnWRIWB_7c0r7hAV0y7y_y": {
+      "project": "Robin Netflix titanes",
+      "source_url": "https://drive.google.com/file/d/17B9B2m3XqCHnWRIWB_7c0r7hAV0y7y_y/view?usp=drivesdk",
+      "source_name": "20190104_181448.jpg",
+      "alt": "Cuerpo y cabeza ensamblados antes del acabado",
+      "asset": "/assets/17B9B2m3XqCHnWRIWB_7c0r7hAV0y7y_y.webp"
+    },
+    "1ACLtjAmnL9T6LyHXvkO9FHeqY52FSwrr": {
+      "project": "Robin Netflix titanes",
+      "source_url": "https://drive.google.com/file/d/1ACLtjAmnL9T6LyHXvkO9FHeqY52FSwrr/view?usp=drivesdk",
+      "source_name": "20190105_171731.jpg",
+      "alt": "Detalle del relieve de la armadura",
+      "asset": "/assets/1ACLtjAmnL9T6LyHXvkO9FHeqY52FSwrr.webp"
+    },
+    "1migUbL78ws9f_0vWJRxn4vJgaUOQ-ywi": {
+      "project": "Robin Netflix titanes",
+      "source_url": "https://drive.google.com/file/d/1migUbL78ws9f_0vWJRxn4vJgaUOQ-ywi/view?usp=drivesdk",
+      "source_name": "20190106_162345.jpg",
+      "alt": "Trabajo de superficie a mano sobre la armadura",
+      "asset": "/assets/1migUbL78ws9f_0vWJRxn4vJgaUOQ-ywi.webp"
+    },
+    "12uQDaM3GhyEUYszOcKw-w6ePmSrScG3V": {
+      "project": "Robin Netflix titanes",
+      "source_url": "https://drive.google.com/file/d/12uQDaM3GhyEUYszOcKw-w6ePmSrScG3V/view?usp=drivesdk",
+      "source_name": "IMG-20190107-WA0005.jpeg",
+      "alt": "Máscara de Robin antes del acabado",
+      "asset": "/assets/12uQDaM3GhyEUYszOcKw-w6ePmSrScG3V.webp"
+    },
+    "1KC4hgKPbLpmp5G731JFXyqZNgsW88sEu": {
+      "project": "Robin Netflix titanes",
+      "source_url": "https://drive.google.com/file/d/1KC4hgKPbLpmp5G731JFXyqZNgsW88sEu/view?usp=drivesdk",
+      "source_name": "20190107_123152.jpg",
+      "alt": "Rostro y traje preparados para pintar",
+      "asset": "/assets/1KC4hgKPbLpmp5G731JFXyqZNgsW88sEu.webp"
+    },
+    "1yjphE58EAcZDSqVH7A6XqPIGYHy8elXS": {
+      "project": "Robin Netflix titanes",
+      "source_url": "https://drive.google.com/file/d/1yjphE58EAcZDSqVH7A6XqPIGYHy8elXS/view?usp=drivesdk",
+      "source_name": "20190107_123158.jpg",
+      "alt": "Detalle del emblema en el pecho",
+      "asset": "/assets/1yjphE58EAcZDSqVH7A6XqPIGYHy8elXS.webp"
+    },
+    "1stUzak_g-K2RW4kg6Nsb0LFMQ1LtyMdW": {
+      "project": "Robin Netflix titanes",
+      "source_url": "https://drive.google.com/file/d/1stUzak_g-K2RW4kg6Nsb0LFMQ1LtyMdW/view?usp=drivesdk",
+      "source_name": "20190107_123207.jpg",
+      "alt": "Escultura completa antes de la pintura",
+      "asset": "/assets/1stUzak_g-K2RW4kg6Nsb0LFMQ1LtyMdW.webp"
+    },
+    "1i_2VvwrUP2IDyEYb6VBc3wqgH_uxx4Sk": {
+      "project": "REDHULK",
+      "source_url": "https://drive.google.com/file/d/1i_2VvwrUP2IDyEYb6VBc3wqgH_uxx4Sk/view?usp=drivesdk",
+      "source_name": "IMG_9623.HEIC",
+      "alt": "Red Hulk terminado en el taller",
+      "asset": "/assets/1i_2VvwrUP2IDyEYb6VBc3wqgH_uxx4Sk.webp"
+    },
+    "1l6mZWFxWg8ws6kYxMTK_QMZ_H5TyHNdO": {
+      "project": "REDECORADO HULK",
+      "source_url": "https://drive.google.com/file/d/1l6mZWFxWg8ws6kYxMTK_QMZ_H5TyHNdO/view?usp=drivesdk",
+      "source_name": "F7FAA3A4-5949-433B-A5E2-4BCD0EE8B882.JPG",
+      "alt": "Hulk verde en exhibición",
+      "asset": "/assets/1l6mZWFxWg8ws6kYxMTK_QMZ_H5TyHNdO.webp"
+    },
+    "1mzuFVY7y3bwQK9VRu213HPB6kDmvQVSV": {
+      "project": "REDHULK",
+      "source_url": "https://drive.google.com/file/d/1mzuFVY7y3bwQK9VRu213HPB6kDmvQVSV/view?usp=drivesdk",
+      "source_name": "pipitik-redhulk-mejores-03.jpg",
+      "alt": "Maqueta de Red Hulk para revisar proporciones",
+      "asset": "/assets/1mzuFVY7y3bwQK9VRu213HPB6kDmvQVSV.webp"
+    },
+    "1P1Mz6zstP6W1bCaz4Oz5zH_nOMGweGLa": {
+      "project": "REDHULK",
+      "source_url": "https://drive.google.com/file/d/1P1Mz6zstP6W1bCaz4Oz5zH_nOMGweGLa/view?usp=drivesdk",
+      "source_name": "IMG_8775.HEIC",
+      "alt": "Trabajo de superficie en el cuerpo de Red Hulk",
+      "asset": "/assets/1P1Mz6zstP6W1bCaz4Oz5zH_nOMGweGLa.webp"
+    },
+    "1Iax9uq3S8ztbmqFBPPNfzx9dUI91Y4fT": {
+      "project": "REDHULK",
+      "source_url": "https://drive.google.com/file/d/1Iax9uq3S8ztbmqFBPPNfzx9dUI91Y4fT/view?usp=drivesdk",
+      "source_name": "18310919434223238.webp",
+      "alt": "Pintura de la escultura monumental en el taller",
+      "asset": "/assets/1Iax9uq3S8ztbmqFBPPNfzx9dUI91Y4fT.webp"
+    },
+    "1R9XOTR01UJtbipq2HVDdQX4YKFyh5JCa": {
+      "project": "REDECORADO HULK",
+      "source_url": "https://drive.google.com/file/d/1R9XOTR01UJtbipq2HVDdQX4YKFyh5JCa/view?usp=drivesdk",
+      "source_name": "fb-10225682453608030.jpg",
+      "alt": "Torso de Hulk verde durante la preparación de superficie",
+      "asset": "/assets/1R9XOTR01UJtbipq2HVDdQX4YKFyh5JCa.webp"
+    },
+    "16DldOiocmm2t6iB1cxc2yILHoqQViexY": {
+      "project": "REDECORADO HULK",
+      "source_url": "https://drive.google.com/file/d/16DldOiocmm2t6iB1cxc2yILHoqQViexY/view?usp=drivesdk",
+      "source_name": "18323327089249070.webp",
+      "alt": "Revisión de la expresión y las texturas del rostro",
+      "asset": "/assets/16DldOiocmm2t6iB1cxc2yILHoqQViexY.webp"
+    },
+    "15r5Zvb4pLOHQ0_VrMeFrHaSo44Rr59qx": {
+      "project": "REDECORADO HULK",
+      "source_url": "https://drive.google.com/file/d/15r5Zvb4pLOHQ0_VrMeFrHaSo44Rr59qx/view?usp=drivesdk",
+      "source_name": "18113947879697271.webp",
+      "alt": "Detalle de la musculatura y los tonos verdes de la espalda",
+      "asset": "/assets/15r5Zvb4pLOHQ0_VrMeFrHaSo44Rr59qx.webp"
+    },
+    "1WHaJXn0DLG53qv_LCAydT8MpSWnGwt3v": {
+      "project": "SHIELD CAPITAN",
+      "source_url": "https://drive.google.com/file/d/1WHaJXn0DLG53qv_LCAydT8MpSWnGwt3v/view?usp=drivesdk",
+      "source_name": "IMG_0212.HEIC",
+      "alt": "Interior del escudo y sus correas",
+      "asset": "/assets/1WHaJXn0DLG53qv_LCAydT8MpSWnGwt3v.webp"
+    },
+    "11LSyPPqKWMyiwhEMX2QJ-dqUi2mtq50G": {
+      "project": "SHIELD CAPITAN",
+      "source_url": "https://drive.google.com/file/d/11LSyPPqKWMyiwhEMX2QJ-dqUi2mtq50G/view?usp=drivesdk",
+      "source_name": "985a5e7f-45f1-4463-befb-6a41e461d74e.JPG",
+      "alt": "Superficie y relieve del escudo durante el acabado",
+      "asset": "/assets/11LSyPPqKWMyiwhEMX2QJ-dqUi2mtq50G.webp"
+    },
+    "1LM3BPSS-UvC761Erls4ONatsV4F9m1Wr": {
+      "project": "TRON",
+      "source_url": "https://drive.google.com/file/d/1LM3BPSS-UvC761Erls4ONatsV4F9m1Wr/view?usp=drivesdk",
+      "source_name": "fb-10223817334781225.jpg",
+      "alt": "Light Cycle en su stand promocional de cine",
+      "asset": "/assets/1LM3BPSS-UvC761Erls4ONatsV4F9m1Wr.webp"
+    },
+    "1Bga5N-kUuUZsEEcs5fdLRfWbQWHtDYOG": {
+      "project": "TRON",
+      "source_url": "https://drive.google.com/file/d/1Bga5N-kUuUZsEEcs5fdLRfWbQWHtDYOG/view?usp=drivesdk",
+      "source_name": "IMG_1766.HEIC",
+      "alt": "Detalle de las ruedas y la iluminación de Light Cycle",
+      "asset": "/assets/1Bga5N-kUuUZsEEcs5fdLRfWbQWHtDYOG.webp"
+    },
+    "1wjb7RybBA8mW_Am2E8issEFiJJDsiG7v": {
+      "project": "TRON",
+      "source_url": "https://drive.google.com/file/d/1wjb7RybBA8mW_Am2E8issEFiJJDsiG7v/view?usp=drivesdk",
+      "source_name": "0b71319e-de94-488c-add3-645a63ff9012.JPG",
+      "alt": "Modelo digital para la construcción de Light Cycle",
+      "asset": "/assets/1wjb7RybBA8mW_Am2E8issEFiJJDsiG7v.webp"
+    },
+    "1r0cK11H1sFm2Nm4G_Tua6cS2xLPHMj58": {
+      "project": "TRON",
+      "source_url": "https://drive.google.com/file/d/1r0cK11H1sFm2Nm4G_Tua6cS2xLPHMj58/view?usp=drivesdk",
+      "source_name": "0FA2CD71-128D-4EBD-A460-ACC487D1A4DC.JPG",
+      "alt": "Moldes de las piezas de la moto en el taller",
+      "asset": "/assets/1r0cK11H1sFm2Nm4G_Tua6cS2xLPHMj58.webp"
+    },
+    "1reRhymkPbvV6pIBlFHCOxH0tFBOuIDHf": {
+      "project": "TRON",
+      "source_url": "https://drive.google.com/file/d/1reRhymkPbvV6pIBlFHCOxH0tFBOuIDHf/view?usp=drivesdk",
+      "source_name": "ba55ca93-0ba8-431f-b567-245f6d638a13.JPG",
+      "alt": "Pintura y acabado de una rueda",
+      "asset": "/assets/1reRhymkPbvV6pIBlFHCOxH0tFBOuIDHf.webp"
+    },
+    "1Datn0iwa1LcjUcSGyDZ4_rp94KrO-QS5": {
+      "project": "TRON",
+      "source_url": "https://drive.google.com/file/d/1Datn0iwa1LcjUcSGyDZ4_rp94KrO-QS5/view?usp=drivesdk",
+      "source_name": "IMG_1101.HEIC",
+      "alt": "Ensamblaje de la moto visto de frente",
+      "asset": "/assets/1Datn0iwa1LcjUcSGyDZ4_rp94KrO-QS5.webp"
+    },
+    "1r-1GBXQ7NZg8cSJ87nwMJ4wTl1J5VsA2": {
+      "project": "TRON",
+      "source_url": "https://drive.google.com/file/d/1r-1GBXQ7NZg8cSJ87nwMJ4wTl1J5VsA2/view?usp=drivesdk",
+      "source_name": "IMG_1100.HEIC",
+      "alt": "Carrocería y rueda durante el ensamblaje",
+      "asset": "/assets/1r-1GBXQ7NZg8cSJ87nwMJ4wTl1J5VsA2.webp"
+    },
+    "1kpcZrrFW2KSoSQ5keLrBNvaudasNEPtG": {
+      "project": "TRON",
+      "source_url": "https://drive.google.com/file/d/1kpcZrrFW2KSoSQ5keLrBNvaudasNEPtG/view?usp=drivesdk",
+      "source_name": "e8fd9e13-6360-4f5f-af02-53c9b13f5e2f.JPG",
+      "alt": "Prueba de iluminación en el taller",
+      "asset": "/assets/1kpcZrrFW2KSoSQ5keLrBNvaudasNEPtG.webp"
+    },
+    "1Hyx2qqTEIuTsMSFr3fQMeZVjJkgBNXEt": {
+      "project": "MUFASSA",
+      "source_url": "https://drive.google.com/file/d/1Hyx2qqTEIuTsMSFr3fQMeZVjJkgBNXEt/view?usp=drivesdk",
+      "source_name": "b8c500c5-e5b8-47fa-90e2-1cd1c919f698.JPG",
+      "alt": "Mufasa y su carro alegórico terminado en Reforma",
+      "asset": "/assets/1Hyx2qqTEIuTsMSFr3fQMeZVjJkgBNXEt.webp"
+    },
+    "1pio3KWu7B97HCMhx3NzpW5BcTxxR9hXU": {
+      "project": "MUFASSA",
+      "source_url": "https://drive.google.com/file/d/1pio3KWu7B97HCMhx3NzpW5BcTxxR9hXU/view?usp=drivesdk",
+      "source_name": "649de5df-6e20-4c5d-98be-7c343cdd148d.JPG",
+      "alt": "Carro de Mufasa frente al Ángel de la Independencia",
+      "asset": "/assets/1pio3KWu7B97HCMhx3NzpW5BcTxxR9hXU.webp"
+    },
+    "1fTmJitL4_KH9I6IfU0W_g-T6dlWNBmic": {
+      "project": "MUFASSA",
+      "source_url": "https://drive.google.com/file/d/1fTmJitL4_KH9I6IfU0W_g-T6dlWNBmic/view?usp=drivesdk",
+      "source_name": "18109982998613562.webp",
+      "alt": "Maqueta de Mufasa para estudiar forma y proporción",
+      "asset": "/assets/1fTmJitL4_KH9I6IfU0W_g-T6dlWNBmic.webp"
+    },
+    "17y8XDY2X9OX1-FXL6BKTKbbp60EpviE8": {
+      "project": "MUFASSA",
+      "source_url": "https://drive.google.com/file/d/17y8XDY2X9OX1-FXL6BKTKbbp60EpviE8/view?usp=drivesdk",
+      "source_name": "IMG_8610.HEIC",
+      "alt": "Construcción de la plataforma del carro",
+      "asset": "/assets/17y8XDY2X9OX1-FXL6BKTKbbp60EpviE8.webp"
+    },
+    "1DoKFEKdMR-UKjpAOxvVoATHdM3FNPiwC": {
+      "project": "MUFASSA",
+      "source_url": "https://drive.google.com/file/d/1DoKFEKdMR-UKjpAOxvVoATHdM3FNPiwC/view?usp=drivesdk",
+      "source_name": "fb-10221506152763119.jpg",
+      "alt": "Modelado de la escultura del león",
+      "asset": "/assets/1DoKFEKdMR-UKjpAOxvVoATHdM3FNPiwC.webp"
+    },
+    "1rZqKEah_dUx6ubZ4EjGqXgSvTFTiDwkI": {
+      "project": "MUFASSA",
+      "source_url": "https://drive.google.com/file/d/1rZqKEah_dUx6ubZ4EjGqXgSvTFTiDwkI/view?usp=drivesdk",
+      "source_name": "IMG_8640.HEIC",
+      "alt": "Detalle del rostro y la melena durante el modelado",
+      "asset": "/assets/1rZqKEah_dUx6ubZ4EjGqXgSvTFTiDwkI.webp"
+    },
+    "1cNiVOgSvbMlGyO8kkSHK9g3rD_TdjfFM": {
+      "project": "MUFASSA",
+      "source_url": "https://drive.google.com/file/d/1cNiVOgSvbMlGyO8kkSHK9g3rD_TdjfFM/view?usp=drivesdk",
+      "source_name": "B4F7174C-5EA3-471F-B667-37A9DE2FD3A5.JPG",
+      "alt": "Trabajo de superficie sobre el cuerpo del león",
+      "asset": "/assets/1cNiVOgSvbMlGyO8kkSHK9g3rD_TdjfFM.webp"
+    },
+    "1DwSFiEhvd8-DroU0_kuXpX8UVHLvoC1M": {
+      "project": "MUFASSA",
+      "source_url": "https://drive.google.com/file/d/1DwSFiEhvd8-DroU0_kuXpX8UVHLvoC1M/view?usp=drivesdk",
+      "source_name": "IMG_8868.HEIC",
+      "alt": "Mufasa preparado para la pintura",
+      "asset": "/assets/1DwSFiEhvd8-DroU0_kuXpX8UVHLvoC1M.webp"
+    },
+    "1U6UcsSmtrWPQaBgcKlGQXgbDEhUVkmBi": {
+      "project": "MUFASSA",
+      "source_url": "https://drive.google.com/file/d/1U6UcsSmtrWPQaBgcKlGQXgbDEhUVkmBi/view?usp=drivesdk",
+      "source_name": "IMG_9222.HEIC",
+      "alt": "Acabado del personaje en el taller",
+      "asset": "/assets/1U6UcsSmtrWPQaBgcKlGQXgbDEhUVkmBi.webp"
+    },
+    "1J1yKdCd6Jvn_3OlhXk4tUupDwkXCvzc_": {
+      "project": "MUFASSA",
+      "source_url": "https://drive.google.com/file/d/1J1yKdCd6Jvn_3OlhXk4tUupDwkXCvzc_/view?usp=drivesdk",
+      "source_name": "IMG_9063.HEIC",
+      "alt": "Modelado y acabado de la roca del carro",
+      "asset": "/assets/1J1yKdCd6Jvn_3OlhXk4tUupDwkXCvzc_.webp"
+    },
+    "1MAsN6CJwjayyJWX0TUQNmLJcr0kAxv7R": {
+      "project": "MUFASSA",
+      "source_url": "https://drive.google.com/file/d/1MAsN6CJwjayyJWX0TUQNmLJcr0kAxv7R/view?usp=drivesdk",
+      "source_name": "IMG_9188.HEIC",
+      "alt": "Roca y plataforma después del acabado",
+      "asset": "/assets/1MAsN6CJwjayyJWX0TUQNmLJcr0kAxv7R.webp"
+    },
+    "1AIlvFITp5Ic6xJnS0_R0M6bpPtBbsnnl": {
+      "project": "PROXIMUS CAESAR",
+      "source_url": "https://drive.google.com/file/d/1AIlvFITp5Ic6xJnS0_R0M6bpPtBbsnnl/view?usp=drivesdk",
+      "source_name": "18112636618586692.webp",
+      "alt": "Proximus Caesar terminado en el taller",
+      "asset": "/assets/1AIlvFITp5Ic6xJnS0_R0M6bpPtBbsnnl.webp"
+    },
+    "1T-wKaYcIBZRaWl6PtQwhYtpUSagOkYeU": {
+      "project": "PROXIMUS CAESAR",
+      "source_url": "https://drive.google.com/file/d/1T-wKaYcIBZRaWl6PtQwhYtpUSagOkYeU/view?usp=drivesdk",
+      "source_name": "proximus-caesar-bts-033.jpg",
+      "alt": "Detalle de la expresión de Proximus Caesar",
+      "asset": "/assets/1T-wKaYcIBZRaWl6PtQwhYtpUSagOkYeU.webp"
+    },
+    "1g4Jx7YkWyKjrIDBMyd5wmB_K8s79ysM0": {
+      "project": "PROXIMUS CAESAR",
+      "source_url": "https://drive.google.com/file/d/1g4Jx7YkWyKjrIDBMyd5wmB_K8s79ysM0/view?usp=drivesdk",
+      "source_name": "proximus-caesar-bts-027.jpg",
+      "alt": "Molde de la corona y el rostro",
+      "asset": "/assets/1g4Jx7YkWyKjrIDBMyd5wmB_K8s79ysM0.webp"
+    },
+    "1rYDka-e_CLUQ_iNnOftJQkWhjWhUFAYC": {
+      "project": "PROXIMUS CAESAR",
+      "source_url": "https://drive.google.com/file/d/1rYDka-e_CLUQ_iNnOftJQkWhjWhUFAYC/view?usp=drivesdk",
+      "source_name": "proximus-caesar-bts-022.jpg",
+      "alt": "Molde del rostro del personaje",
+      "asset": "/assets/1rYDka-e_CLUQ_iNnOftJQkWhjWhUFAYC.webp"
+    },
+    "1etLkbLv39a6Je_8umuyD1-opmXkj-jL8": {
+      "project": "PROXIMUS CAESAR",
+      "source_url": "https://drive.google.com/file/d/1etLkbLv39a6Je_8umuyD1-opmXkj-jL8/view?usp=drivesdk",
+      "source_name": "proximus-caesar-bts-017.jpg",
+      "alt": "Pieza del brazo y detalles de armadura",
+      "asset": "/assets/1etLkbLv39a6Je_8umuyD1-opmXkj-jL8.webp"
+    },
+    "14bHJFmV9xFzVJNhWTknKCFFoJhsuj_4N": {
+      "project": "PROXIMUS CAESAR",
+      "source_url": "https://drive.google.com/file/d/14bHJFmV9xFzVJNhWTknKCFFoJhsuj_4N/view?usp=drivesdk",
+      "source_name": "proximus-caesar-bts-013.jpg",
+      "alt": "Cuerpo del personaje durante la preparación",
+      "asset": "/assets/14bHJFmV9xFzVJNhWTknKCFFoJhsuj_4N.webp"
+    },
+    "1cF2WobesumATWPWb_hry4dCh3y0NCVsn": {
+      "project": "PROXIMUS CAESAR",
+      "source_url": "https://drive.google.com/file/d/1cF2WobesumATWPWb_hry4dCh3y0NCVsn/view?usp=drivesdk",
+      "source_name": "proximus-caesar-bts-016.jpg",
+      "alt": "Construcción de la base del conjunto",
+      "asset": "/assets/1cF2WobesumATWPWb_hry4dCh3y0NCVsn.webp"
+    },
+    "1jspjUGynv8vsRlGrg8WJRW-y1dCUfUTP": {
+      "project": "PROXIMUS CAESAR",
+      "source_url": "https://drive.google.com/file/d/1jspjUGynv8vsRlGrg8WJRW-y1dCUfUTP/view?usp=drivesdk",
+      "source_name": "proximus-caesar-bts-001.jpg",
+      "alt": "Ensamblaje del trono y sus formas",
+      "asset": "/assets/1jspjUGynv8vsRlGrg8WJRW-y1dCUfUTP.webp"
+    },
+    "1jmVUgYEuN5RQWSm9ZVWaSO0ZoSSp5EdR": {
+      "project": "PROXIMUS CAESAR",
+      "source_url": "https://drive.google.com/file/d/1jmVUgYEuN5RQWSm9ZVWaSO0ZoSSp5EdR/view?usp=drivesdk",
+      "source_name": "proximus-caesar-bts-006.jpg",
+      "alt": "Trabajo de superficie y pintura del trono",
+      "asset": "/assets/1jmVUgYEuN5RQWSm9ZVWaSO0ZoSSp5EdR.webp"
+    },
+    "1rRN9WpgRYHNot7tAw97uQIHAyd3doNQ7": {
+      "project": "PROXIMUS CAESAR",
+      "source_url": "https://drive.google.com/file/d/1rRN9WpgRYHNot7tAw97uQIHAyd3doNQ7/view?usp=drivesdk",
+      "source_name": "proximus-caesar-bts-024.jpg",
+      "alt": "Detalle del vestuario y el acabado del personaje",
+      "asset": "/assets/1rRN9WpgRYHNot7tAw97uQIHAyd3doNQ7.webp"
+    },
+    "1XTW2e9hGK0mUpIF5wYssFLtOp-RPoBkK": {
+      "project": "SPIDERMAN",
+      "source_url": "https://drive.google.com/file/d/1XTW2e9hGK0mUpIF5wYssFLtOp-RPoBkK/view?usp=drivesdk",
+      "source_name": "18140087290601022_f0.jpg",
+      "alt": "Spider-Man en su instalación con el vehículo",
+      "asset": "/assets/1XTW2e9hGK0mUpIF5wYssFLtOp-RPoBkK.webp"
+    },
+    "1_6cjxkdaEPVi3JAV9kfQL3TPHviy_Sll": {
+      "project": "SPIDERMAN",
+      "source_url": "https://drive.google.com/file/d/1_6cjxkdaEPVi3JAV9kfQL3TPHviy_Sll/view?usp=drivesdk",
+      "source_name": "18102067235601586_f1.jpg",
+      "alt": "Detalle del rostro y las líneas del traje terminado",
+      "asset": "/assets/1_6cjxkdaEPVi3JAV9kfQL3TPHviy_Sll.webp"
+    },
+    "1yMpy13JY-sMXk-KUN2eNCupRreix5tFQ": {
+      "project": "SPIDERMAN",
+      "source_url": "https://drive.google.com/file/d/1yMpy13JY-sMXk-KUN2eNCupRreix5tFQ/view?usp=drivesdk",
+      "source_name": "17989750271840902_f1.jpg",
+      "alt": "Volumen inicial del cuerpo de Spider-Man",
+      "asset": "/assets/1yMpy13JY-sMXk-KUN2eNCupRreix5tFQ.webp"
+    },
+    "1JMPSxHt5rszYeyAhlVjyF0L2Xsba0m5G": {
+      "project": "SPIDERMAN",
+      "source_url": "https://drive.google.com/file/d/1JMPSxHt5rszYeyAhlVjyF0L2Xsba0m5G/view?usp=drivesdk",
+      "source_name": "18118628668713541_f2.jpg",
+      "alt": "Escultura antes de la pintura",
+      "asset": "/assets/1JMPSxHt5rszYeyAhlVjyF0L2Xsba0m5G.webp"
+    },
+    "1SaxpvPR5VqjV2oOtsKlGLMiyjbQKMr6P": {
+      "project": "SPIDERMAN",
+      "source_url": "https://drive.google.com/file/d/1SaxpvPR5VqjV2oOtsKlGLMiyjbQKMr6P/view?usp=drivesdk",
+      "source_name": "18014133680737203_f2.jpg",
+      "alt": "Modelado del rostro y las líneas del traje",
+      "asset": "/assets/1SaxpvPR5VqjV2oOtsKlGLMiyjbQKMr6P.webp"
+    },
+    "1n-3QCEPYKs8aAHDOqx7RXwxoN5N1iYrX": {
+      "project": "SPIDERMAN",
+      "source_url": "https://drive.google.com/file/d/1n-3QCEPYKs8aAHDOqx7RXwxoN5N1iYrX/view?usp=drivesdk",
+      "source_name": "18014133680737203_f1.jpg",
+      "alt": "Trabajo de relieve del traje en el torso",
+      "asset": "/assets/1n-3QCEPYKs8aAHDOqx7RXwxoN5N1iYrX.webp"
+    },
+    "1G9_DeyK1L06YUuYb7zNmLOyO7F4hjJ_W": {
+      "project": "SPIDERMAN",
+      "source_url": "https://drive.google.com/file/d/1G9_DeyK1L06YUuYb7zNmLOyO7F4hjJ_W/view?usp=drivesdk",
+      "source_name": "18102067235601586_f0.jpg",
+      "alt": "Pintura del traje de Spider-Man",
+      "asset": "/assets/1G9_DeyK1L06YUuYb7zNmLOyO7F4hjJ_W.webp"
+    },
+    "1kgf7DMRKkCTSphcf3_VpzvMaFE-kUzt6": {
+      "project": "SPIDERMAN",
+      "source_url": "https://drive.google.com/file/d/1kgf7DMRKkCTSphcf3_VpzvMaFE-kUzt6/view?usp=drivesdk",
+      "source_name": "18277835008289331_f0.jpg",
+      "alt": "Detalle del torso y los brazos durante el acabado",
+      "asset": "/assets/1kgf7DMRKkCTSphcf3_VpzvMaFE-kUzt6.webp"
+    },
+    "1GZzH6YDvPW9ab1Mbdcj3BaFhaIwEywkw": {
+      "project": "BALLENA",
+      "source_url": "https://drive.google.com/file/d/1GZzH6YDvPW9ab1Mbdcj3BaFhaIwEywkw/view?usp=drivesdk",
+      "source_name": "IMG_4582.HEIC",
+      "alt": "Ballena terminada en la exhibición de The Boys",
+      "asset": "/assets/1GZzH6YDvPW9ab1Mbdcj3BaFhaIwEywkw.webp"
+    },
+    "1QEu2SakpQBjWhx2VbVRiTkQnsoyIsdFp": {
+      "project": "BALLENA",
+      "source_url": "https://drive.google.com/file/d/1QEu2SakpQBjWhx2VbVRiTkQnsoyIsdFp/view?usp=drivesdk",
+      "source_name": "ddf321be-5aab-46d9-8088-b551a3a842fb.JPG",
+      "alt": "Detalle de la boca y los dientes terminados",
+      "asset": "/assets/1QEu2SakpQBjWhx2VbVRiTkQnsoyIsdFp.webp"
+    },
+    "1Ua3OfbZUitI6FADC0JQGlCwAIuge_qCF": {
+      "project": "BALLENA",
+      "source_url": "https://drive.google.com/file/d/1Ua3OfbZUitI6FADC0JQGlCwAIuge_qCF/view?usp=drivesdk",
+      "source_name": "fb-10225653358880680.jpg",
+      "alt": "Construcción del volumen de la cabeza de la ballena",
+      "asset": "/assets/1Ua3OfbZUitI6FADC0JQGlCwAIuge_qCF.webp"
+    },
+    "1LBhQHk_-Ci2wujINIcgLDtPu12OK_fjL": {
+      "project": "BALLENA",
+      "source_url": "https://drive.google.com/file/d/1LBhQHk_-Ci2wujINIcgLDtPu12OK_fjL/view?usp=drivesdk",
+      "source_name": "fb-10225651260588224.jpg",
+      "alt": "Relieve de la piel antes del acabado",
+      "asset": "/assets/1LBhQHk_-Ci2wujINIcgLDtPu12OK_fjL.webp"
+    },
+    "1Zlf83pCUu-AeVztGoX7s4u6etiO2jGnf": {
+      "project": "BALLENA",
+      "source_url": "https://drive.google.com/file/d/1Zlf83pCUu-AeVztGoX7s4u6etiO2jGnf/view?usp=drivesdk",
+      "source_name": "fb-10225651261508247.jpg",
+      "alt": "Trabajo en la boca y los dientes",
+      "asset": "/assets/1Zlf83pCUu-AeVztGoX7s4u6etiO2jGnf.webp"
+    },
+    "1xXJFzCCBb2Fwf4rj31L-A1dcDgxI4QVZ": {
+      "project": "BALLENA",
+      "source_url": "https://drive.google.com/file/d/1xXJFzCCBb2Fwf4rj31L-A1dcDgxI4QVZ/view?usp=drivesdk",
+      "source_name": "fb-10225667960605714.jpg",
+      "alt": "Preparación de la superficie en el taller",
+      "asset": "/assets/1xXJFzCCBb2Fwf4rj31L-A1dcDgxI4QVZ.webp"
+    },
+    "1HOHe4FNFajWjv2aKJON5MwqgOIVHTrd8": {
+      "project": "BALLENA",
+      "source_url": "https://drive.google.com/file/d/1HOHe4FNFajWjv2aKJON5MwqgOIVHTrd8/view?usp=drivesdk",
+      "source_name": "82c795ba-2d6e-4510-bcb0-49fca1a337bf.JPG",
+      "alt": "Detalle del ojo y sus tonos de pintura",
+      "asset": "/assets/1HOHe4FNFajWjv2aKJON5MwqgOIVHTrd8.webp"
+    },
+    "1-1viuy_lbnb1NXLkiZ4_U1xrN6ntxB70": {
+      "project": "BALLENA",
+      "source_url": "https://drive.google.com/file/d/1-1viuy_lbnb1NXLkiZ4_U1xrN6ntxB70/view?usp=drivesdk",
+      "source_name": "fb-10225675123744788.jpg",
+      "alt": "Montaje y ajuste de la escultura en exhibición",
+      "asset": "/assets/1-1viuy_lbnb1NXLkiZ4_U1xrN6ntxB70.webp"
+    },
+    "12H-gjqF7y4PMFmtbQ-lQKJXj0Kjgc6_Q": {
+      "project": "BALLENA",
+      "source_url": "https://drive.google.com/file/d/12H-gjqF7y4PMFmtbQ-lQKJXj0Kjgc6_Q/view?usp=drivesdk",
+      "source_name": "fb-10226433808071422.jpg",
+      "alt": "Preparación de la instalación y el entorno",
+      "asset": "/assets/12H-gjqF7y4PMFmtbQ-lQKJXj0Kjgc6_Q.webp"
+    },
+    "1t6k2caioDjDlZ9O0ZdGw07Vir0ANHG9G": {
+      "project": "ALIEN ROMULUS",
+      "source_url": "https://drive.google.com/file/d/1t6k2caioDjDlZ9O0ZdGw07Vir0ANHG9G/view?usp=drivesdk",
+      "source_name": "Screen Shot 2026-09-09 at 12.56.39 PM.png",
+      "alt": "Alien terminado, visto de cuerpo completo",
+      "asset": "/assets/1t6k2caioDjDlZ9O0ZdGw07Vir0ANHG9G.webp"
+    },
+    "1pbY_7btD6adHPSXx01i_aMun06PDhQ69": {
+      "project": "PASILLO_ALIEN",
+      "source_url": "https://drive.google.com/file/d/1pbY_7btD6adHPSXx01i_aMun06PDhQ69/view?usp=drivesdk",
+      "source_name": "18046656275440399.webp",
+      "alt": "Pasillo de Alien instalado",
+      "asset": "/assets/1pbY_7btD6adHPSXx01i_aMun06PDhQ69.webp"
+    },
+    "1-edgM15Zqrhk_1q2DcBuw6aNPiZINndq": {
+      "project": "ALIEN ROMULUS",
+      "source_url": "https://drive.google.com/file/d/1-edgM15Zqrhk_1q2DcBuw6aNPiZINndq/view?usp=drivesdk",
+      "source_name": "18071465989986544_f0.jpg",
+      "alt": "Maqueta de la cola del Alien",
+      "asset": "/assets/1-edgM15Zqrhk_1q2DcBuw6aNPiZINndq.webp"
+    },
+    "1rEzPAXOEIjJauhr-pv8f_DoUMELiRyP5": {
+      "project": "ALIEN ROMULUS",
+      "source_url": "https://drive.google.com/file/d/1rEzPAXOEIjJauhr-pv8f_DoUMELiRyP5/view?usp=drivesdk",
+      "source_name": "18082646354628497_f0.jpg",
+      "alt": "Detalle orgánico de la superficie de la criatura",
+      "asset": "/assets/1rEzPAXOEIjJauhr-pv8f_DoUMELiRyP5.webp"
+    },
+    "1tVwOdMvt0Dhb1Ebip1mPK1dpxG-_vxPL": {
+      "project": "ALIEN ROMULUS",
+      "source_url": "https://drive.google.com/file/d/1tVwOdMvt0Dhb1Ebip1mPK1dpxG-_vxPL/view?usp=drivesdk",
+      "source_name": "Screen Shot 2026-09-09 at 12.55.16 PM.png",
+      "alt": "Cuerpo de Alien antes del acabado",
+      "asset": "/assets/1tVwOdMvt0Dhb1Ebip1mPK1dpxG-_vxPL.webp"
+    },
+    "17DZjlzTC2P3tVbq-yVOl0SNv_oPdhzCF": {
+      "project": "ALIEN ROMULUS",
+      "source_url": "https://drive.google.com/file/d/17DZjlzTC2P3tVbq-yVOl0SNv_oPdhzCF/view?usp=drivesdk",
+      "source_name": "fb-10225642541930263.jpg",
+      "alt": "Detalle del relieve del huevo",
+      "asset": "/assets/17DZjlzTC2P3tVbq-yVOl0SNv_oPdhzCF.webp"
+    },
+    "1wWwKd0OTHlWVQ4nZiny2UlIu67rlo-xo": {
+      "project": "ALIEN ROMULUS",
+      "source_url": "https://drive.google.com/file/d/1wWwKd0OTHlWVQ4nZiny2UlIu67rlo-xo/view?usp=drivesdk",
+      "source_name": "alien-earth-bts-008.png",
+      "alt": "Trabajo de modelado a mano en el huevo",
+      "asset": "/assets/1wWwKd0OTHlWVQ4nZiny2UlIu67rlo-xo.webp"
+    },
+    "1YB7zXBqQjsLybn_b3tJmT9spcQhvYqG-": {
+      "project": "ALIEN ROMULUS",
+      "source_url": "https://drive.google.com/file/d/1YB7zXBqQjsLybn_b3tJmT9spcQhvYqG-/view?usp=drivesdk",
+      "source_name": "alien-earth-bts-024.png",
+      "alt": "Volumen del huevo y sus formas orgánicas",
+      "asset": "/assets/1YB7zXBqQjsLybn_b3tJmT9spcQhvYqG-.webp"
+    },
+    "1R-hCh_59QWLQRqjJ7XSRfg2nl4XzY4iE": {
+      "project": "ALIEN ROMULUS",
+      "source_url": "https://drive.google.com/file/d/1R-hCh_59QWLQRqjJ7XSRfg2nl4XzY4iE/view?usp=drivesdk",
+      "source_name": "alien-earth-bts-026.png",
+      "alt": "Estructura curva del pasillo en construcción",
+      "asset": "/assets/1R-hCh_59QWLQRqjJ7XSRfg2nl4XzY4iE.webp"
+    },
+    "1t8RyDxncUPYDllTTPKzj58Fy6T0sEiJL": {
+      "project": "ALIEN ROMULUS",
+      "source_url": "https://drive.google.com/file/d/1t8RyDxncUPYDllTTPKzj58Fy6T0sEiJL/view?usp=drivesdk",
+      "source_name": "alien-earth-bts-022.png",
+      "alt": "Ensamblaje de los paneles del pasillo",
+      "asset": "/assets/1t8RyDxncUPYDllTTPKzj58Fy6T0sEiJL.webp"
+    },
+    "1w4xtGh4qwi56lBs_3O30uALGsbTlD4UB": {
+      "project": "ALIEN ROMULUS",
+      "source_url": "https://drive.google.com/file/d/1w4xtGh4qwi56lBs_3O30uALGsbTlD4UB/view?usp=drivesdk",
+      "source_name": "alien-earth-bts-010.png",
+      "alt": "Montaje de la estructura en el taller",
+      "asset": "/assets/1w4xtGh4qwi56lBs_3O30uALGsbTlD4UB.webp"
+    },
+    "1Opei2bWWbCIbFCN2--3rB7Pepqd7rLTX": {
+      "project": "BLUE DEMON JR",
+      "source_url": "https://drive.google.com/file/d/1Opei2bWWbCIbFCN2--3rB7Pepqd7rLTX/view?usp=drivesdk",
+      "source_name": "IMG_8746.HEIC",
+      "alt": "Blue Demon Jr. terminado de cuerpo completo",
+      "asset": "/assets/1Opei2bWWbCIbFCN2--3rB7Pepqd7rLTX.webp"
+    },
+    "1GnkTeZcrRAL2TQrqMTgV3SgWaH9FyA_S": {
+      "project": "BLUE DEMON JR",
+      "source_url": "https://drive.google.com/file/d/1GnkTeZcrRAL2TQrqMTgV3SgWaH9FyA_S/view?usp=drivesdk",
+      "source_name": "fb-10221010632295417.jpg",
+      "alt": "Detalle del rostro y la máscara terminada",
+      "asset": "/assets/1GnkTeZcrRAL2TQrqMTgV3SgWaH9FyA_S.webp"
+    },
+    "1IEtwKH8ICgJtWFkwSpXoRQBxSMmi3wkg": {
+      "project": "BLUE DEMON JR",
+      "source_url": "https://drive.google.com/file/d/1IEtwKH8ICgJtWFkwSpXoRQBxSMmi3wkg/view?usp=drivesdk",
+      "source_name": "IMG_5384.PNG",
+      "alt": "Modelado del rostro de Blue Demon Jr.",
+      "asset": "/assets/1IEtwKH8ICgJtWFkwSpXoRQBxSMmi3wkg.webp"
+    },
+    "1ptmTGTjsLGNVm2-TkIh8a-xN1nFMPzLB": {
+      "project": "BLUE DEMON JR",
+      "source_url": "https://drive.google.com/file/d/1ptmTGTjsLGNVm2-TkIh8a-xN1nFMPzLB/view?usp=drivesdk",
+      "source_name": "IMG_5381.PNG",
+      "alt": "Cuerpo del luchador antes del acabado",
+      "asset": "/assets/1ptmTGTjsLGNVm2-TkIh8a-xN1nFMPzLB.webp"
+    },
+    "12xkV2G2U7r_f_Z4RGOnlVeE5_aXKKqLE": {
+      "project": "BLUE DEMON JR",
+      "source_url": "https://drive.google.com/file/d/12xkV2G2U7r_f_Z4RGOnlVeE5_aXKKqLE/view?usp=drivesdk",
+      "source_name": "IMG_5382.PNG",
+      "alt": "Detalle del pecho y los brazos durante el modelado",
+      "asset": "/assets/12xkV2G2U7r_f_Z4RGOnlVeE5_aXKKqLE.webp"
+    },
+    "1YRziKPeJSM1oc19a9349cYlTaTYot3TQ": {
+      "project": "BLUE DEMON JR",
+      "source_url": "https://drive.google.com/file/d/1YRziKPeJSM1oc19a9349cYlTaTYot3TQ/view?usp=drivesdk",
+      "source_name": "IMG_5380.PNG",
+      "alt": "Silueta lateral del cuerpo durante el modelado",
+      "asset": "/assets/1YRziKPeJSM1oc19a9349cYlTaTYot3TQ.webp"
+    },
+    "1vt0DuGuHLVUCwGeGhLnOM9C0NvZ4P4bt": {
+      "project": "BLUE DEMON JR",
+      "source_url": "https://drive.google.com/file/d/1vt0DuGuHLVUCwGeGhLnOM9C0NvZ4P4bt/view?usp=drivesdk",
+      "source_name": "IMG_8752.HEIC",
+      "alt": "Máscara y anatomía con su acabado de color",
+      "asset": "/assets/1vt0DuGuHLVUCwGeGhLnOM9C0NvZ4P4bt.webp"
+    },
+    "1zhZaTf6g6Dys4GzpY2J0FhAav3brcfbo": {
+      "project": "BLUE DEMON JR",
+      "source_url": "https://drive.google.com/file/d/1zhZaTf6g6Dys4GzpY2J0FhAav3brcfbo/view?usp=drivesdk",
+      "source_name": "IMG_8754.HEIC",
+      "alt": "Detalle de musculatura y acabado de la espalda",
+      "asset": "/assets/1zhZaTf6g6Dys4GzpY2J0FhAav3brcfbo.webp"
+    },
+    "1mvSbvuKdCHI0txZ_BzL7TzcFI3dWzooj": {
+      "project": "STRANGERTHINGS",
+      "source_url": "https://drive.google.com/file/d/1mvSbvuKdCHI0txZ_BzL7TzcFI3dWzooj/view?usp=drivesdk",
+      "source_name": "pipitik-strangerthings-mejores-10.jpg",
+      "alt": "Demogorgon terminado en el taller",
+      "asset": "/assets/1mvSbvuKdCHI0txZ_BzL7TzcFI3dWzooj.webp"
+    },
+    "10zeNcsYiLcdu1FJD-PdqaH54efSNKxMa": {
+      "project": "STRANGERTHINGS",
+      "source_url": "https://drive.google.com/file/d/10zeNcsYiLcdu1FJD-PdqaH54efSNKxMa/view?usp=drivesdk",
+      "source_name": "18117980551521281_f0.jpg",
+      "alt": "Vista lateral del Demogorgon terminado",
+      "asset": "/assets/10zeNcsYiLcdu1FJD-PdqaH54efSNKxMa.webp"
+    },
+    "1Eud0w452Uo7wOO3r32ME4cOAZ4vSap_t": {
+      "project": "STRANGERTHINGS",
+      "source_url": "https://drive.google.com/file/d/1Eud0w452Uo7wOO3r32ME4cOAZ4vSap_t/view?usp=drivesdk",
+      "source_name": "pipitik-strangerthings-resto-04.jpg",
+      "alt": "Molde de la cabeza del Demogorgon",
+      "asset": "/assets/1Eud0w452Uo7wOO3r32ME4cOAZ4vSap_t.webp"
+    },
+    "1s8HnyGkSI5z6W6VMWbRK-FCZrF9dgIhu": {
+      "project": "STRANGERTHINGS",
+      "source_url": "https://drive.google.com/file/d/1s8HnyGkSI5z6W6VMWbRK-FCZrF9dgIhu/view?usp=drivesdk",
+      "source_name": "pipitik-strangerthings-mejores-09.jpg",
+      "alt": "Detalle de la cabeza y los dientes",
+      "asset": "/assets/1s8HnyGkSI5z6W6VMWbRK-FCZrF9dgIhu.webp"
+    },
+    "1fm5Mw3s9fJz3SEdG07PPWmbBwT8WSdIX": {
+      "project": "STRANGERTHINGS",
+      "source_url": "https://drive.google.com/file/d/1fm5Mw3s9fJz3SEdG07PPWmbBwT8WSdIX/view?usp=drivesdk",
+      "source_name": "pipitik-strangerthings-mejores-08.jpg",
+      "alt": "Acabado del brazo y la mano de la criatura",
+      "asset": "/assets/1fm5Mw3s9fJz3SEdG07PPWmbBwT8WSdIX.webp"
+    },
+    "16lxAESNIij5reMQ4gI-o6yZNegHJwsT_": {
+      "project": "TRONO",
+      "source_url": "https://drive.google.com/file/d/16lxAESNIij5reMQ4gI-o6yZNegHJwsT_/view?usp=drivesdk",
+      "source_name": "Screen Shot 2026-09-09 at 12.42.22 PM.png",
+      "alt": "Trono de Hierro instalado en exhibición",
+      "asset": "/assets/16lxAESNIij5reMQ4gI-o6yZNegHJwsT_.webp"
+    },
+    "1tD4UV9iiIiF8EF4kqvKZaRsfPz6d_VVu": {
+      "project": "TRONO",
+      "source_url": "https://drive.google.com/file/d/1tD4UV9iiIiF8EF4kqvKZaRsfPz6d_VVu/view?usp=drivesdk",
+      "source_name": "Screen Shot 2026-09-09 at 12.37.55 PM.png",
+      "alt": "Construcción de la estructura del asiento",
+      "asset": "/assets/1tD4UV9iiIiF8EF4kqvKZaRsfPz6d_VVu.webp"
+    },
+    "1IuULMlItpaGwoyr8ti20iNIxYlPUpRHj": {
+      "project": "TRONO",
+      "source_url": "https://drive.google.com/file/d/1IuULMlItpaGwoyr8ti20iNIxYlPUpRHj/view?usp=drivesdk",
+      "source_name": "Screen Shot 2026-09-09 at 12.38.28 PM.png",
+      "alt": "Ensamblaje del perfil del trono",
+      "asset": "/assets/1IuULMlItpaGwoyr8ti20iNIxYlPUpRHj.webp"
+    },
+    "1w9avFh-I8ZA2dyzGCg3eTFNmtE_X9VIl": {
+      "project": "TRONO",
+      "source_url": "https://drive.google.com/file/d/1w9avFh-I8ZA2dyzGCg3eTFNmtE_X9VIl/view?usp=drivesdk",
+      "source_name": "Screen Shot 2026-09-09 at 12.39.43 PM.png",
+      "alt": "Volumen completo del trono antes del acabado",
+      "asset": "/assets/1w9avFh-I8ZA2dyzGCg3eTFNmtE_X9VIl.webp"
+    },
+    "1Q1NAu8DhO6C0m8x-C-kkeR7uS_pnWNmo": {
+      "project": "TRONO",
+      "source_url": "https://drive.google.com/file/d/1Q1NAu8DhO6C0m8x-C-kkeR7uS_pnWNmo/view?usp=drivesdk",
+      "source_name": "Screen Shot 2026-09-09 at 12.38.05 PM.png",
+      "alt": "Detalle del reverso y las espadas en construcción",
+      "asset": "/assets/1Q1NAu8DhO6C0m8x-C-kkeR7uS_pnWNmo.webp"
+    },
+    "1tzpNDMFT-d75kRGG5ZsR_OP-JRCkbtVC": {
+      "project": "TRONO",
+      "source_url": "https://drive.google.com/file/d/1tzpNDMFT-d75kRGG5ZsR_OP-JRCkbtVC/view?usp=drivesdk",
+      "source_name": "Screen Shot 2026-09-09 at 12.39.06 PM.png",
+      "alt": "Trabajo de superficie en la parte posterior",
+      "asset": "/assets/1tzpNDMFT-d75kRGG5ZsR_OP-JRCkbtVC.webp"
+    },
+    "10ppZ0pHtq5hzX6jN5jQCmlk2yyQbJ_5n": {
+      "project": "TRONO",
+      "source_url": "https://drive.google.com/file/d/10ppZ0pHtq5hzX6jN5jQCmlk2yyQbJ_5n/view?usp=drivesdk",
+      "source_name": "Screen Shot 2026-09-09 at 12.40.08 PM.png",
+      "alt": "Pintura y acabado metálico del trono",
+      "asset": "/assets/10ppZ0pHtq5hzX6jN5jQCmlk2yyQbJ_5n.webp"
+    },
+    "last-of-us-1Mztf7dY9jjxD0Lan802MQab0PC5HEkVw-0.webp": {
+      "project": "LAST OF US",
+      "source_video_id": "1Mztf7dY9jjxD0Lan802MQab0PC5HEkVw",
+      "source_frame_index": 0,
+      "alt": "Pieza de The Last of Us terminada, vista completa",
+      "asset": "/assets/last-of-us-1Mztf7dY9jjxD0Lan802MQab0PC5HEkVw-0.webp"
+    },
+    "last-of-us-1FcuoMZcvCd3B00rHReI68aFeP600LCYS-1.webp": {
+      "project": "LAST OF US",
+      "source_video_id": "1FcuoMZcvCd3B00rHReI68aFeP600LCYS",
+      "source_frame_index": 1,
+      "alt": "Rostro y crecimiento orgánico antes del acabado",
+      "asset": "/assets/last-of-us-1FcuoMZcvCd3B00rHReI68aFeP600LCYS-1.webp"
+    },
+    "last-of-us-1s7HyfHSsVVU0huFabSS3eqO-oLR29W1C-3.webp": {
+      "project": "LAST OF US",
+      "source_video_id": "1s7HyfHSsVVU0huFabSS3eqO-oLR29W1C",
+      "source_frame_index": 3,
+      "alt": "Trabajo manual sobre las formas del hongo",
+      "asset": "/assets/last-of-us-1s7HyfHSsVVU0huFabSS3eqO-oLR29W1C-3.webp"
+    },
+    "last-of-us-1YNbesS2pGuq7kVBh-FJNm-UEsUox2OwB-3.webp": {
+      "project": "LAST OF US",
+      "source_video_id": "1YNbesS2pGuq7kVBh-FJNm-UEsUox2OwB",
+      "source_frame_index": 3,
+      "alt": "Relieve orgánico del entorno durante su construcción",
+      "asset": "/assets/last-of-us-1YNbesS2pGuq7kVBh-FJNm-UEsUox2OwB-3.webp"
+    }
+  }
+}

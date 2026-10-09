@@ -16,6 +16,12 @@
 - The board's first list contains the operating rules. Keep the preview review card current with its URL and open decisions.
 - The one-time board creation workflow `siilI4LWBbrLRNEF` has its creation node disabled after success; do not run it again.
 
+## Project galleries
+
+- Use the curated selection in galleries.mjs. Aim for 2–3 views of the finished piece and 6–9 process photos where good source material exists. Prefer fewer strong images over duplicates or weak frames.
+- Keep compact thumbnails and open the larger image in the gallery viewer, with previous/next arrows and keyboard navigation.
+- Keep previous and next project links with thumbnails at the end of every project page.
+
 ## Current creative decisions
 
 - Homepage cover: use Alex's supplied image from October 8, 19:01, public/assets/studio-cover-alex.jpg. Preserve its exact image bytes and natural 1872:1056 framing. Place text in the empty lower-right wall below the raised fist, clear of faces and sculpture. Fit the whole photo beneath the header; only use CSS shading for legibility. Do not reuse the rejected Fal/manual montage or run ops/prepare-cover.py for this cover. Keep deployments preview-only.

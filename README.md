@@ -64,3 +64,8 @@ Imágenes generadas con la herramienta integrada a partir de referencias del pro
 La portada usa `public/assets/studio-cover-alex.jpg`, imagen enviada por Alex el 8 de octubre a las 19:01. Se conserva el archivo exacto y su proporción 1872:1056. El texto se coloca sobre el espacio libre de pared abajo a la derecha, debajo del puño, con sombreado CSS suave para facilitar lectura. La imagen completa cabe debajo del encabezado en el primer viewport; en móvil se mantiene el mismo encuadre y un título/botón compacto.
 
 El montaje Fal/manual anterior fue rechazado por Alex y ya no se muestra. `ops/cover-assets.json` y `ops/prepare-cover.py` conservan el historial de aquella prueba, no la portada actual. No generar ni retocar esta nueva fotografía. **DO NOT PUSH TO MAIN**.
+
+
+### Galerías de proyectos
+
+`galleries.mjs` contiene la selección revisada de vistas terminadas y fotos de proceso. `ops/gallery-selection.json` conserva las referencias del material original. Se usan miniaturas de 480 px para la cuadrícula y archivos de hasta 1920 px para el visor. Las galerías se recorren con los botones anterior/siguiente o las teclas de flecha; Escape cierra el visor y devuelve el foco a la miniatura. Cada proyecto termina con enlaces al proyecto anterior y siguiente, con su imagen. Cuando el material disponible no aporta más ángulos o etapas de calidad, la selección queda más corta.

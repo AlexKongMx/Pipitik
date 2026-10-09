@@ -126,6 +126,10 @@ export const galleries={
           {
             "src": "/assets/1Iax9uq3S8ztbmqFBPPNfzx9dUI91Y4fT.webp",
             "alt": "Pintura de la escultura monumental en el taller"
+          },
+          {
+            "src": "/assets/1ilMWCswyu9jf1QWFs5-v4dgKSDViAokb.webp",
+            "alt": "Detalle del modelado y acabado de Red Hulk"
           }
         ]
       },
@@ -134,8 +138,8 @@ export const galleries={
         "text": "Preparación de superficies, anatomía y detalle de color.",
         "images": [
           {
-            "src": "/assets/1R9XOTR01UJtbipq2HVDdQX4YKFyh5JCa.webp",
-            "alt": "Torso de Hulk verde durante la preparación de superficie"
+            "src": "/assets/1TeAm23-HtRSP0BJKDH954d6Dk753-B36.webp",
+            "alt": "Torso de Hulk verde antes de la pintura"
           },
           {
             "src": "/assets/16DldOiocmm2t6iB1cxc2yILHoqQViexY.webp",
@@ -170,8 +174,8 @@ export const galleries={
         "alt": "Light Cycle en su stand promocional de cine"
       },
       {
-        "src": "/assets/1Bga5N-kUuUZsEEcs5fdLRfWbQWHtDYOG.webp",
-        "alt": "Detalle de las ruedas y la iluminación de Light Cycle"
+        "src": "/assets/1zRZavzuwBpE8GlBJ22BAOvwYv4_D6pwi.webp",
+        "alt": "Light Cycle de Tron: Ares instalada en un cine"
       }
     ],
     "groups": [
@@ -204,6 +208,24 @@ export const galleries={
             "alt": "Prueba de iluminación en el taller"
           }
         ]
+      },
+      {
+        "title": "Light Cycle · Tron: Ares",
+        "text": "Una segunda versión: carrocería, ruedas y acabado de color.",
+        "images": [
+          {
+            "src": "/assets/1xrh-3QfmfxW1ZuDbF9VD_EMpV9T-LxUZ.webp",
+            "alt": "Modelo digital de la Light Cycle de Tron: Ares"
+          },
+          {
+            "src": "/assets/1wt84eLd7qqg53dwKMhAFMYgu7F4DsZGx.webp",
+            "alt": "Ensamblaje de la carrocería en el taller"
+          },
+          {
+            "src": "/assets/14TdRkW-NeAWPj_yjBSq_pQ6H_zHdYU-j.webp",
+            "alt": "Pintura de una rueda de Tron: Ares"
+          }
+        ]
       }
     ]
   },
@@ -232,16 +254,16 @@ export const galleries={
             "alt": "Construcción de la plataforma del carro"
           },
           {
-            "src": "/assets/1DoKFEKdMR-UKjpAOxvVoATHdM3FNPiwC.webp",
-            "alt": "Modelado de la escultura del león"
+            "src": "/assets/1s-JYLQz4JN63gxmZm8j6LGjA3EatWLk5.webp",
+            "alt": "El equipo trabajando el modelado de Mufasa"
           },
           {
-            "src": "/assets/1rZqKEah_dUx6ubZ4EjGqXgSvTFTiDwkI.webp",
-            "alt": "Detalle del rostro y la melena durante el modelado"
+            "src": "/assets/1U-Z4WSjLGOYHHXzHLE_RHJlH8jM_o47R.webp",
+            "alt": "Trabajo manual de textura en el rostro de Mufasa"
           },
           {
-            "src": "/assets/1cNiVOgSvbMlGyO8kkSHK9g3rD_TdjfFM.webp",
-            "alt": "Trabajo de superficie sobre el cuerpo del león"
+            "src": "/assets/1Huae7e696MK-525L5CR7AYHHs-z12YVX.webp",
+            "alt": "Trabajo de superficie y ensamblaje del cuerpo"
           },
           {
             "src": "/assets/1DwSFiEhvd8-DroU0_kuXpX8UVHLvoC1M.webp",
@@ -280,32 +302,36 @@ export const galleries={
         "text": "Modelado, moldes, vestuario y ensamblaje de una pieza con presencia propia.",
         "images": [
           {
+            "src": "/assets/1YiswrABFaLlbYKTiyF-1jhcSlEQPFL1e.webp",
+            "alt": "Modelado del rostro del personaje"
+          },
+          {
+            "src": "/assets/1PzEgpzEmC3JEYjxKsf8bsiA1AJkwPe0m.webp",
+            "alt": "Trabajo manual sobre los detalles de la cara"
+          },
+          {
             "src": "/assets/1g4Jx7YkWyKjrIDBMyd5wmB_K8s79ysM0.webp",
             "alt": "Molde de la corona y el rostro"
           },
           {
-            "src": "/assets/1rYDka-e_CLUQ_iNnOftJQkWhjWhUFAYC.webp",
-            "alt": "Molde del rostro del personaje"
-          },
-          {
-            "src": "/assets/1etLkbLv39a6Je_8umuyD1-opmXkj-jL8.webp",
-            "alt": "Pieza del brazo y detalles de armadura"
+            "src": "/assets/1U_Htj6VA4BRnReaKLfJjidiCJp7Td95E.webp",
+            "alt": "Moldes y piezas del personaje sobre la mesa"
           },
           {
             "src": "/assets/14bHJFmV9xFzVJNhWTknKCFFoJhsuj_4N.webp",
             "alt": "Cuerpo del personaje durante la preparación"
           },
           {
-            "src": "/assets/1cF2WobesumATWPWb_hry4dCh3y0NCVsn.webp",
-            "alt": "Construcción de la base del conjunto"
+            "src": "/assets/114KmwIVVqlEkNFFknfI0tEA9nTomc8md.webp",
+            "alt": "Ensamblaje del trono antes de pintar"
           },
           {
-            "src": "/assets/1jspjUGynv8vsRlGrg8WJRW-y1dCUfUTP.webp",
-            "alt": "Ensamblaje del trono y sus formas"
+            "src": "/assets/1KSgzZam-ZIWWaOj5H7o1vOkr1dG_7qyv.webp",
+            "alt": "Acabado del trono en el taller"
           },
           {
-            "src": "/assets/1jmVUgYEuN5RQWSm9ZVWaSO0ZoSSp5EdR.webp",
-            "alt": "Trabajo de superficie y pintura del trono"
+            "src": "/assets/12LYpKWKt2MBYVQ3g63WwuuKHAQx4Tdn-.webp",
+            "alt": "Construcción de la roca que sostiene el conjunto"
           },
           {
             "src": "/assets/1rRN9WpgRYHNot7tAw97uQIHAyd3doNQ7.webp",
@@ -372,12 +398,16 @@ export const galleries={
         "text": "Volumen, textura, pintura y montaje de una escultura de doce metros.",
         "images": [
           {
-            "src": "/assets/1Ua3OfbZUitI6FADC0JQGlCwAIuge_qCF.webp",
-            "alt": "Construcción del volumen de la cabeza de la ballena"
+            "src": "/assets/1h8-GSQzzAs1JCNzXgJAK770ZSA0BCHMz.webp",
+            "alt": "Volumen completo de la ballena durante su construcción"
           },
           {
             "src": "/assets/1LBhQHk_-Ci2wujINIcgLDtPu12OK_fjL.webp",
             "alt": "Relieve de la piel antes del acabado"
+          },
+          {
+            "src": "/assets/1cNTAyCeo3qiwcdR2MgSKjg9V035U1lQW.webp",
+            "alt": "Modelado y ensamblaje de los dientes"
           },
           {
             "src": "/assets/1Zlf83pCUu-AeVztGoX7s4u6etiO2jGnf.webp",
@@ -420,8 +450,8 @@ export const galleries={
         "text": "Anatomía, texturas y piezas del personaje.",
         "images": [
           {
-            "src": "/assets/1-edgM15Zqrhk_1q2DcBuw6aNPiZINndq.webp",
-            "alt": "Maqueta de la cola del Alien"
+            "src": "/assets/1gUjA1oMVhf-wVT45-uu5akGbnNQuZohI.webp",
+            "alt": "Escultura completa de Alien antes del acabado"
           },
           {
             "src": "/assets/1rEzPAXOEIjJauhr-pv8f_DoUMELiRyP5.webp",
@@ -474,8 +504,8 @@ export const galleries={
   "blue-demon": {
     "finished": [
       {
-        "src": "/assets/1Opei2bWWbCIbFCN2--3rB7Pepqd7rLTX.webp",
-        "alt": "Blue Demon Jr. terminado de cuerpo completo"
+        "src": "/assets/1Qx9zgLEj9L4bHHbRBgKUEUVGkN5xbHfU.webp",
+        "alt": "Blue Demon Jr. terminado, visto de cuerpo completo"
       },
       {
         "src": "/assets/1GnkTeZcrRAL2TQrqMTgV3SgWaH9FyA_S.webp",
@@ -552,6 +582,10 @@ export const galleries={
       {
         "src": "/assets/16lxAESNIij5reMQ4gI-o6yZNegHJwsT_.webp",
         "alt": "Trono de Hierro instalado en exhibición"
+      },
+      {
+        "src": "/assets/1jZhiHIIxhh8RznxvBHJaRig8_SOtAerI.webp",
+        "alt": "Trono de Hierro terminado en el taller"
       }
     ],
     "groups": [
@@ -610,6 +644,134 @@ export const galleries={
           {
             "src": "/assets/last-of-us-1YNbesS2pGuq7kVBh-FJNm-UEsUox2OwB-3.webp",
             "alt": "Relieve orgánico del entorno durante su construcción"
+          }
+        ]
+      }
+    ]
+  },
+  "checoneta": {
+    "finished": [
+      {
+        "src": "/assets/1-_3G0lDmyKY3Dyrpb659JMWoB7W2J_pk.webp",
+        "alt": "La Checoneta terminada, vista de tres cuartos"
+      },
+      {
+        "src": "/assets/1DrCfpTjr91Cap8l6HNwFTk-ZWL7-UF1c.webp",
+        "alt": "Vista lateral de la carrocería terminada en el taller"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Del volumen a la carrocería",
+        "text": "Construcción, preparación de superficies, pintura y traslado de la pieza.",
+        "images": [
+          {
+            "src": "/assets/1iqDWniQS0KoGBiswjAO74ZAw1TYR1i06.webp",
+            "alt": "Construcción de la carrocería en espuma"
+          },
+          {
+            "src": "/assets/1-xBhJifBN7Dcq3v5xItO5fO1ilM90V5n.webp",
+            "alt": "Modelado de la parte frontal"
+          },
+          {
+            "src": "/assets/1b8canGC3k2ACoKnlTA1_lpcM9sKlnM3s.webp",
+            "alt": "Trabajo manual de superficie en el frente"
+          },
+          {
+            "src": "/assets/1369pftJoh5r4XU38dMb6N_OyRUTkxLBr.webp",
+            "alt": "Preparación de la carrocería antes de pintar"
+          },
+          {
+            "src": "/assets/11LShLfO9Zyn8eZPVTZElN6mPOZ_Jkexd.webp",
+            "alt": "Aplicación del acabado blanco durante el traslado"
+          },
+          {
+            "src": "/assets/1RZWgtEpcNhMch1xrx1sQWhmreEU_zKEJ.webp",
+            "alt": "Pintura amarilla y protección de ventanas"
+          },
+          {
+            "src": "/assets/1lMys7Q46yaop5_Advivima9xRrjGrTTD.webp",
+            "alt": "Trabajo del equipo en la pintura de la carrocería"
+          },
+          {
+            "src": "/assets/1qJ8j6hrW2sfaaaLCcj1a9z2Qmvqyl-vL.webp",
+            "alt": "Detalle del acabado azul y amarillo"
+          },
+          {
+            "src": "/assets/1W5GczvfSNXX1XVO2u_1Nz2Owmq6ThwPK.webp",
+            "alt": "Traslado de la Checoneta terminada"
+          }
+        ]
+      }
+    ]
+  },
+  "diorama-mamut": {
+    "finished": [
+      {
+        "src": "/assets/1MYyCBNZO-eASw3ulc36oRA0oP7tzXmye.webp",
+        "alt": "Vista lateral del mamut y el paisaje del diorama"
+      },
+      {
+        "src": "/assets/10uXs9qLN10vIWIzCDaS52nqVciSYNOpb.webp",
+        "alt": "El diorama en el recorrido de la exposición"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Modelado y estudios de volumen",
+        "text": "Estudios de anatomía y composición encontrados en el archivo del proyecto.",
+        "images": [
+          {
+            "src": "/assets/1HGUdnBRoFFTCw2z68a9q0olmht_VqbqN.webp",
+            "alt": "Modelo de mamut y piezas de molde en el taller"
+          },
+          {
+            "src": "/assets/1shChLCu_XHBc6s89gkQT29dr5tGpAdYY.webp",
+            "alt": "Estudio de composición de una manada de mamuts"
+          }
+        ]
+      }
+    ]
+  },
+  "rancor": {
+    "finished": [
+      {
+        "src": "/assets/1l8yO0kbk9CXe5RejP-Vg0R7IiRdYAWCr.webp",
+        "alt": "Rancor y su escala frente a un visitante"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Anatomía y textura",
+        "text": "Modelado, color y montaje de la criatura a gran escala.",
+        "images": [
+          {
+            "src": "/assets/1sYvoUxXoFM4rZ7FC7daBLV3PDEV29LFk.webp",
+            "alt": "Modelado del perfil de la cabeza"
+          },
+          {
+            "src": "/assets/1-NTBIoVo4rchqGRnSlPdX-WiJr0LOMaL.webp",
+            "alt": "Trabajo de la boca y la lengua durante el modelado"
+          },
+          {
+            "src": "/assets/1UQVtUnG3b7wLBlAU8irz9YY-YzG17fVQ.webp",
+            "alt": "Detalle del ojo y los pliegues de la piel"
+          },
+          {
+            "src": "/assets/1QCMEss59n6ul9Tjb0PpHGKrG0UL8hgjy.webp",
+            "alt": "Cabeza del Rancor con el acabado de color"
+          },
+          {
+            "src": "/assets/1Kkuxx02rfNue5lIBX2pVNy-lxP_mZ3eO.webp",
+            "alt": "Preparación y pintura del cuerpo en el patio"
+          },
+          {
+            "src": "/assets/1LFh8JmnVmN38B1udof5IHZSVhmRf1pcq.webp",
+            "alt": "Trabajo de pintura en la espalda"
+          },
+          {
+            "src": "/assets/1MCxhkkUBH3HXadfbh1_dTuaLZyXgjRzJ.webp",
+            "alt": "Montaje de la escultura en el recinto de exhibición"
           }
         ]
       }

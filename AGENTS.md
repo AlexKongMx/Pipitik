@@ -31,4 +31,5 @@
 - AI hero direction: believable promotional installations in cinemas, shopping malls, and conventions. Preserve the actual sculpture design. These are proposals; do not describe invented venues as confirmed installation history.
 - Alien: wait for Alex's location confirmation from Lalo before changing its hero.
 - Team portraits are approved; preserve them.
-- Robin retains the real Bellas Artes photograph pending an accepted visual proposal.
+- Robin and Spider-Man use Alex’s supplied hero images from October 9. Próximus César uses the approved-direction AI recreation based on the actual location references.
+- Catalog now includes Checoneta, Diorama de mamut and Rancor. Preserve the six featured projects unless Alex changes that selection.

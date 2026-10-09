@@ -18,7 +18,7 @@
 
 ## Current creative decisions
 
-- Homepage cover: use the photographic 21:9 Fal workshop extension with the person at screen right removed. Preserve original source pixels for Hulk and the remaining two adults, with subtle global grading. Text stays at top right. The whole hero fits beneath the header without scrolling; mobile uses a separate crop. No duplicated blurred backdrop. Fal worker outputs and n8n receipt are recorded under ops. Keep all deployments in preview.
+- Homepage cover: use Alex's supplied image from October 8, 19:01, public/assets/studio-cover-alex.jpg. Preserve its exact image bytes and natural 1872:1056 framing. Place text in the empty lower-right wall below the raised fist, clear of faces and sculpture. Fit the whole photo beneath the header; only use CSS shading for legibility. Do not reuse the rejected Fal/manual montage or run ops/prepare-cover.py for this cover. Keep deployments preview-only.
 - Hulk project: keep the real shopping-mall installation photo.
 - First Light Cycle appearance: wide promotional stand photo. Second appearance: preserve the close photo.
 - Featured projects: Hulk, Mufasa, Pinocho, The Last of Us, Robin, Tron. Exactly six, no duplicate projects.

@@ -59,10 +59,8 @@ Esta revisión usa el Hulk con el equipo en portada y conserva el Hulk en plaza 
 
 Imágenes generadas con la herramienta integrada a partir de referencias del proyecto. Assets: `public/assets/the-last-of-us-hero-convention-ai.webp`, `public/assets/pinocho-hero-cinema-ai.webp`, `public/assets/mufasa-hero-reforma-title-ai.webp`. Direcciones de prompt: preservar la escultura de Last of Us y trasladar su stand a Comic-Con; preservar el busto, nariz y gráfica de Pinocho en un cine; preservar el carro de Mufasa en Reforma y agregar únicamente un letrero físico MUFASA. Estas propuestas no confirman ubicaciones históricas.
 
-## Portada panorámica — revisión con Fal
+## Portada — imagen proporcionada por Alex
 
-La portada utiliza una extensión fotográfica del taller generada con Fal/Nano Banana Pro. El montaje final conserva los píxeles originales de Hulk y de los dos integrantes restantes, elimina a la persona de pantalla derecha, alinea las franjas de la pared y aplica color/contraste moderados. No usa un fondo duplicado con blur. Escritorio: imagen 21:9 y texto arriba a la derecha, dentro del primer viewport. Móvil: recorte propio de 5:4 para ver el grupo completo sin scroll.
+La portada usa `public/assets/studio-cover-alex.jpg`, imagen enviada por Alex el 8 de octubre a las 19:01. Se conserva el archivo exacto y su proporción 1872:1056. El texto se coloca sobre el espacio libre de pared abajo a la derecha, debajo del puño, con sombreado CSS suave para facilitar lectura. La imagen completa cabe debajo del encabezado en el primer viewport; en móvil se mantiene el mismo encuadre y un título/botón compacto.
 
-Assets finales: `studio-cover-panorama-fal.webp` y `studio-cover-mobile-fal.webp`. El retrato del taller en la página del equipo conserva su fotografía aprobada. Las pruebas de edición general y de inpainting que cambiaron detalles o añadieron personas no se publicaron.
-
-Flujo n8n: https://n8n.srv1457832.hstgr.cloud/workflow/asCtdcIUfv2QOMz9 (manual, sin publicar). El HTTP con la credencial FalAi sigue respondiendo 401 tras su renovación; se utilizó la conexión directa existente de Fal como worker y se registraron sus resultados por n8n. El flujo admite submit/read/record, una imagen por submit y sin reintentos automáticos. Trazabilidad de modelos, fuentes y outputs en `ops/cover-assets.json`. **DO NOT PUSH TO MAIN**.
+El montaje Fal/manual anterior fue rechazado por Alex y ya no se muestra. `ops/cover-assets.json` y `ops/prepare-cover.py` conservan el historial de aquella prueba, no la portada actual. No generar ni retocar esta nueva fotografía. **DO NOT PUSH TO MAIN**.

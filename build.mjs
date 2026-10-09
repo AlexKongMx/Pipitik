@@ -22,6 +22,6 @@ console.log(`Built ${routes.length} pages, ${projects.length} projects.`);
 // Unlinked responsive review surfaces, generated only for Netlify previews.
 if(process.env.CONTEXT==='deploy-preview'){
  for(const width of [360,390,700,1440]){
-  write(`_preview-checks/${width}`,`<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="robots" content="noindex,nofollow"><title>Revisión ${width}px</title></head><body style="margin:0;background:#303030"><iframe title="Pipitik a ${width}px" src="/" style="display:block;width:${width}px;height:1100px;border:0"></iframe></body></html>`);
+  write(`_preview-checks/${width}`,`<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="robots" content="noindex,nofollow"><title>Revisión ${width}px</title></head><body style="margin:0;background:#303030"><iframe title="Pipitik a ${width}px" src="/" style="display:block;width:${width}px;height:${width<=700?780:900}px;border:0"></iframe></body></html>`);
  }
 }

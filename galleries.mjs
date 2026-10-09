@@ -254,7 +254,7 @@ export const galleries={
             "alt": "Construcción de la plataforma del carro"
           },
           {
-            "src": "/assets/1s-JYLQz4JN63gxmZm8j6LGjA3EatWLk5.webp",
+            "src": "/assets/mufasa-process-textura.webp",
             "alt": "El equipo trabajando el modelado de Mufasa"
           },
           {
@@ -746,7 +746,7 @@ export const galleries={
         "text": "Modelado, color y montaje de la criatura a gran escala.",
         "images": [
           {
-            "src": "/assets/1sYvoUxXoFM4rZ7FC7daBLV3PDEV29LFk.webp",
+            "src": "/assets/rancor-process-perfil.webp",
             "alt": "Modelado del perfil de la cabeza"
           },
           {

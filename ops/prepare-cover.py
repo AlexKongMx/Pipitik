@@ -4,7 +4,7 @@ import numpy as np
 ROOT=Path(__file__).resolve().parents[1]
 original=Image.open(ROOT/'public/assets/14rXf3nOjN4UfxEK78OU2vr5zWIweORDb.webp').convert('RGB').crop((0,150,1440,1590))
 import argparse
-parser=argparse.ArgumentParser();parser.add_argument('--background',required=True);args=parser.parse_args()
+parser=argparse.ArgumentParser();parser.add_argument('--background',required=True);parser.add_argument('--review-output');args=parser.parse_args()
 background=Image.open(args.background).convert('RGB').resize((3360,1440))
 h,w=1440,3360
 x=np.arange(w,dtype=float);sx=np.clip(1500+(x-1050)*.8,0,3359)
@@ -37,5 +37,5 @@ canvas=ImageEnhance.Contrast(canvas).enhance(1.09);canvas=ImageEnhance.Color(can
 a=np.asarray(canvas).astype(float);a[:,:,0]*=1.018;a[:,:,2]*=.98;canvas=Image.fromarray(np.clip(a,0,255).astype('uint8'))
 canvas.resize((2520,1080),Image.Resampling.LANCZOS).save(ROOT/'public/assets/studio-cover-panorama-fal.webp',quality=88,method=6)
 canvas.crop((0,0,1800,1440)).resize((1350,1080),Image.Resampling.LANCZOS).save(ROOT/'public/assets/studio-cover-mobile-fal.webp',quality=88,method=6)
-canvas.resize((1680,720)).save('/workspace/scratch/6aabbbf34429/cover-composite-review.jpg',quality=94)
+if args.review_output: canvas.resize((1680,720)).save(args.review_output,quality=94)
 print('Saved original-subject composite with AI workshop background; 2520x1080 and 1350x1080.')

@@ -1,0 +1,48 @@
+{
+  "source_photo": "public/assets/14rXf3nOjN4UfxEK78OU2vr5zWIweORDb.webp",
+  "source_crop": [
+    0,
+    150,
+    1440,
+    1590
+  ],
+  "final_assets": [
+    "public/assets/studio-cover-panorama-fal.webp",
+    "public/assets/studio-cover-mobile-fal.webp"
+  ],
+  "chosen_background": {
+    "model": "fal-ai/nano-banana-pro/edit",
+    "request_id": "01a11e3c-943f-7761-b685-3d027d789e72",
+    "output_url": "https://v3b.fal.media/files/b/0aada010/f9rHO6ezxnct5NA6MdvuP_4NOInlVX.png",
+    "prompt": "Edit this real workshop photo into a polished photographic website cover, landscape 21:9. Keep the Red Hulk sculpture exactly as photographed: same face, color, design, pose, proportions and rocky base. Keep the TWO adults at the LEFT and CENTER exactly: identical facial identity, clothing, poses and proportions. Remove ONLY the adult at the far RIGHT of the source wearing black, glasses and crossed arms, and restore the workshop wall/floor where he was. Preserve the sculpture and the two remaining adults including their feet. Crop excessive roof/ceiling above and empty floor below, leaving comfortable small headroom. Expand the photograph horizontally by naturally extending the same worn workshop plaster walls, red horizontal stripes and concrete floor with correct perspective. Position the original sculpture and TWO remaining adults within the LEFT 55-60% of the panorama. The RIGHT 40% must be actual sharply rendered continuous workshop wall with open upper-right space for website typography; no people, empty black areas, blur, duplicated photographs, artificial vignette bands, frames, mirror effects, composites or collage. Make it look like a single wide-angle photograph taken at that exact workshop. Subtle artistic editorial postproduction: richer red paint, controlled highlights, detailed natural skin and sculpture textures, gently deeper shadows and warm-neutral cinematic tone. Do not redesign, beautify, stylize, repaint, replace or alter the two retained faces, bodies or clothing. Do not modify the sculpture. Keep the image photographic and grounded. Do not add text, logos, objects or people. Single clean 21:9 photo only.",
+    "usage": "AI workshop wall/floor only; all retained subjects from original photo."
+  },
+  "rejected_tests": [
+    {
+      "model": "fal-ai/nano-banana-pro/edit",
+      "request_id": "01a11e49-8aaf-72e2-b67e-9c9d21d839bc",
+      "output_url": "https://v3b.fal.media/files/b/0aada065/OKifIixVWTN4rfeVFAdOt_Bxlv4N9u.png",
+      "used": false
+    },
+    {
+      "model": "fal-ai/nano-banana-pro/edit",
+      "request_id": "01a11e4a-79dd-7d71-9252-fc6dc693d423",
+      "output_url": "https://v3b.fal.media/files/b/0aada06b/jI7iww9RvLzKjrCuRSGgv_LtOYOnhQ.png",
+      "used": false
+    },
+    {
+      "model": "fal-ai/flux-pro/v1/fill",
+      "request_id": "01a11e4d-9f72-7703-ba4d-ead6b19a25e5",
+      "output_url": "https://v3b.fal.media/files/b/0aada082/TbmdSOhoDpbEz_T_nVbU8_97981a826af948569e4f9d085e28f7c5.png",
+      "used": false
+    }
+  ],
+  "n8n": {
+    "workflow_id": "asCtdcIUfv2QOMz9",
+    "receipt_execution_id": "78530",
+    "published": false,
+    "http_status": 401,
+    "worker": "connected-fal-tool"
+  },
+  "deployment": "preview-only"
+}

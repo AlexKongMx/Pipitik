@@ -18,11 +18,11 @@
 
 ## Current creative decisions
 
-- Homepage cover: Alex wants a full-width 21:9 panorama above the fold, crop excess ceiling/floor, subtle artistic grading, and text at TOP RIGHT. The hero must fit beneath the header without scrolling. Mobile adapts to the available first viewport and keeps faces clear. Person removal and photographic lateral expansion remain pending: requested edits were rejected, including a separate panorama edit retaining all three people. The current preview uses a softly blurred backdrop from the same original photo, not generated lateral detail. Do not evade rejected edits through Fal.ai or another model.
+- Homepage cover: use the photographic 21:9 Fal workshop extension with the person at screen right removed. Preserve original source pixels for Hulk and the remaining two adults, with subtle global grading. Text stays at top right. The whole hero fits beneath the header without scrolling; mobile uses a separate crop. No duplicated blurred backdrop. Fal worker outputs and n8n receipt are recorded under ops. Keep all deployments in preview.
 - Hulk project: keep the real shopping-mall installation photo.
 - First Light Cycle appearance: wide promotional stand photo. Second appearance: preserve the close photo.
 - Featured projects: Hulk, Mufasa, Pinocho, The Last of Us, Robin, Tron. Exactly six, no duplicate projects.
 - AI hero direction: believable promotional installations in cinemas, shopping malls, and conventions. Preserve the actual sculpture design. These are proposals; do not describe invented venues as confirmed installation history.
 - Alien: wait for Alex's location confirmation from Lalo before changing its hero.
 - Team portraits are approved; preserve them.
-- Robin AI generation was blocked; retain the real Bellas Artes photograph. Do not retry or evade the rejected image request.
+- Robin retains the real Bellas Artes photograph pending an accepted visual proposal.

@@ -36,5 +36,7 @@
 
 ## Language versions
 
+- Mobile cover text is aligned to the right in a narrower column to leave Lalo's face unobstructed; preserve the centered photo crop.
+
 - Spanish lives at `/`, `/proyectos/` and `/equipo/`; English lives at `/en/`, `/en/projects/` and `/en/team/`, with translated project slugs where applicable.
 - Both languages have real static pages, matching ES/EN links, canonical URLs, hreflang and translated copy, captions and accessibility labels.

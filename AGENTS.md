@@ -5,7 +5,7 @@
 - DO NOT PUSH TO MAIN. Alex's instruction of October 8, 2026 supersedes earlier deployment authorization.
 - Work on a preview branch and publish a Netlify Deploy Preview through a draft pull request. Share the preview URL for review.
 - Do not push, merge, or deploy to production until Alex explicitly says this version is ready for push to main. A request to edit the site is not that approval.
-- Keep `main` unchanged throughout review.
+- Keep `main` unchanged throughout review. Alex authorized the October 9 version only; it was merged as 9a2addc71bebeb17870cfd04a298052bad97961b. New changes still require separate approval.
 
 ## Project management
 
@@ -24,7 +24,7 @@
 
 ## Current creative decisions
 
-- Homepage cover: use Alex's supplied panoramic image from October 9, public/assets/studio-cover-alex-wide.jpg (2048×877). Preserve its exact image bytes. Fill the hero edge to edge with no black bars; use object-fit:cover when viewport height requires a shallow crop. Keep the hero beneath the header and above the fold on desktop. Large right-aligned text fills the clear wall below/right of the fist, clear of faces. Only CSS shading for legibility. Do not reuse the rejected montage or run ops/prepare-cover.py. Preview only.
+- Homepage cover: use Alex's supplied panoramic image from October 9, public/assets/studio-cover-alex-wide.jpg (2048×877). Preserve its exact image bytes. Fill the hero edge to edge with no black bars; use object-fit:cover when viewport height requires a shallow crop. Keep the hero beneath the header and above the fold on desktop. On mobile, Alex now requests a tall first-screen cover with centered image and readable overlaid text; the former panoramic strip is superseded. Large right-aligned text fills the clear wall below/right of the fist, clear of faces. Only CSS shading for legibility. Do not reuse the rejected montage or run ops/prepare-cover.py. Preview only.
 - Hulk project: keep the real shopping-mall installation photo.
 - First Light Cycle appearance: wide promotional stand photo. Second appearance: preserve the close photo.
 - Featured projects: Hulk, Mufasa, Pinocho, The Last of Us, Robin, Tron. Exactly six, no duplicate projects.
@@ -33,3 +33,10 @@
 - Team portraits are approved; preserve them.
 - Robin and Spider-Man use Alex’s supplied hero images from October 9. Próximus César uses the approved-direction AI recreation based on the actual location references.
 - Catalog now includes Checoneta, Diorama de mamut and Rancor. Preserve the six featured projects unless Alex changes that selection.
+
+## Language versions
+
+- Mobile cover text is aligned to the right in a narrower column to leave Lalo's face unobstructed; preserve the centered photo crop.
+
+- Spanish lives at `/`, `/proyectos/` and `/equipo/`; English lives at `/en/`, `/en/projects/` and `/en/team/`, with translated project slugs where applicable.
+- Both languages have real static pages, matching ES/EN links, canonical URLs, hreflang and translated copy, captions and accessibility labels.

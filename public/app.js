@@ -9,5 +9,25 @@ photos.forEach((b,index)=>b.addEventListener('click',()=>{trigger=b;showPhoto(in
 dialog?.querySelector('.lightbox-close').addEventListener('click',()=>dialog.close());
 dialog?.querySelector('.lightbox-previous').addEventListener('click',()=>showPhoto(photoIndex-1));
 dialog?.querySelector('.lightbox-next').addEventListener('click',()=>showPhoto(photoIndex+1));
+// Navigate on horizontal swipes without intercepting vertical gestures or pinch zoom.
+const viewerImage=dialog?.querySelector('img');let swipeStart=null;
+if(viewerImage){
+ viewerImage.draggable=false;
+ viewerImage.addEventListener('pointerdown',e=>{
+  if(!e.isPrimary){swipeStart=null;return}
+  if(!dialog.open||photos.length<2||e.button!==0)return;
+  swipeStart={id:e.pointerId,x:e.clientX,y:e.clientY};
+  viewerImage.setPointerCapture(e.pointerId);
+ });
+ viewerImage.addEventListener('pointerup',e=>{
+  const start=swipeStart;swipeStart=null;
+  if(!start||start.id!==e.pointerId||!dialog.open)return;
+  const dx=e.clientX-start.x;const dy=e.clientY-start.y;
+  if(Math.abs(dx)>=48&&Math.abs(dx)>Math.abs(dy)*1.5)showPhoto(photoIndex+(dx<0?1:-1));
+ });
+ viewerImage.addEventListener('pointercancel',()=>{swipeStart=null});
+ viewerImage.addEventListener('lostpointercapture',()=>{swipeStart=null});
+ dialog.addEventListener('close',()=>{swipeStart=null});
+}
 dialog?.addEventListener('keydown',e=>{if(e.key==='ArrowLeft'||e.key==='ArrowRight'){e.preventDefault();showPhoto(photoIndex+(e.key==='ArrowRight'?1:-1))}});
 dialog?.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close()}});dialog?.addEventListener('close',()=>{document.body.classList.remove('modal-open');trigger?.focus()});

@@ -45,7 +45,7 @@
 .project-hero-open{display:block;position:relative;width:100%;border:0;padding:0;background:transparent;cursor:zoom-in;color:#fff}
 .project-hero-open span{position:absolute;right:20px;bottom:20px;padding:10px 14px;background:#111c;font:12px Arial,sans-serif}
 .lightbox{width:1280px;padding:64px 72px 24px;overflow:hidden}
-.lightbox img{height:calc(88svh - 140px);max-height:760px;object-fit:contain}
+.lightbox img{height:calc(88svh - 140px);max-height:760px;object-fit:contain;touch-action:pan-y pinch-zoom;user-select:none;-webkit-user-select:none}
 .lightbox-footer{display:flex;align-items:center;justify-content:space-between;gap:24px;margin-top:16px}
 .lightbox-footer p{margin:0;line-height:1.4}
 .lightbox-caption{text-align:left!important}

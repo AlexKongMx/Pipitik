@@ -98,3 +98,5 @@
 .story-copy{max-width:850px}
 .story-copy p{font-size:1.05rem;line-height:1.8;color:#ddd;margin:0 0 18px}
 @media(max-width:700px){.project-facts{grid-template-columns:1fr;gap:18px}.project-stories{padding-bottom:32px}.project-story{padding-bottom:24px}.story-copy p{font-size:1rem}}
+
+.press-references>p{margin-bottom:24px;color:#ccc;line-height:1.6}.press-references figure{margin:0}.press-references .gallery-item{width:100%}.press-references figcaption{line-height:1.6}

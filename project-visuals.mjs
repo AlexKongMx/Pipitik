@@ -8,12 +8,19 @@ export const projectVisuals = {
   'the-last-of-us': {hero:'/assets/the-last-of-us-hero-condesa-ai-v2.webp', heroCaption:'Recreación de la instalación con IA'},
   // Its exhibition venue has not been verified. Do not imply a museum credit.
   demogorgon: {heroCaption:'Visualización de la pieza con IA'},
-  alien: {videos:[
+  alien: {references:[
+    {src:'/assets/alien-earth-ccxp-entrance-frames.webp',alt:'Entrada a la experiencia de Alien: Earth en CCXP México 2025',credit:'Fotografía de prensa · Frames · Zacek Chan',url:'https://framesmx.com/2025/05/especial-asi-se-vivio-el-primer-dia-de-la-ccxpmx-25/'}
+  ],videos:[
     {file:'/assets/alien-earth-walkthrough-source.mp4',poster:'/assets/1pbY_7btD6adHPSXx01i_aMun06PDhQ69.webp',title:'Recorrido del pasillo',description:'Un vistazo al interior de la escenografía terminada.',credit:'Archivo del taller',url:'https://drive.google.com/file/d/1ABVBjlnA8wQEOHXoXv7hM7aTwsnJwoyf/view?usp=drivesdk'},
     {id:'H9J3-XWELkA',start:366,end:416,title:'Alien: Earth en CCXP México',description:'Recorrido del evento: el segmento de Alien: Earth comienza en 6:06.',credit:'My Friend Sac · YouTube',url:'https://www.youtube.com/watch?v=H9J3-XWELkA&t=366s'}
   ]}
 };
 export const visualTranslations = [
+  ['En locación','On location'],
+  ['Cobertura de prensa','Press coverage'],
+  ['Fotografía externa de la experiencia en CCXP México 2025.','External photograph of the experience at CCXP Mexico 2025.'],
+  ['Entrada a la experiencia de Alien: Earth en CCXP México 2025','Entrance to the Alien: Earth experience at CCXP Mexico 2025'],
+  ['Fotografía de prensa · Frames · Zacek Chan','Press photograph · Frames · Zacek Chan'],
   ['Video','Video'],
   ['Recorrido del pasillo','Corridor walkthrough'],
   ['Un vistazo al interior de la escenografía terminada.','A look inside the finished set.'],

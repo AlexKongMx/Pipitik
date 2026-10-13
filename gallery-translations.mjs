@@ -106,5 +106,109 @@ export const galleryTranslations=[
   [
     "Huevo terminado dentro de la escenografía",
     "Finished egg inside the set"
+  ],
+  [
+    "Huevo de resina translúcida · acabado final",
+    "Translucent resin egg · final finish"
+  ],
+  [
+    "Interior construido del pasillo",
+    "Constructed corridor interior"
+  ],
+  [
+    "Del modelado de la superficie al volumen completo: vistas del huevo cerrado, el relieve y la apertura.",
+    "From surface sculpting to the complete form: views of the closed egg, its texture and opening."
+  ],
+  [
+    "Huevo cerrado · modelado completo, vista frontal",
+    "Closed egg · completed sculpt, front view"
+  ],
+  [
+    "Huevos cerrados · modelado completo en el taller",
+    "Closed eggs · completed sculpts at the studio"
+  ],
+  [
+    "Alien: Earth · Construcción de la nave",
+    "Alien: Earth · Building the ship"
+  ],
+  [
+    "El armazón curvo y los paneles forman el fuselaje de la nave estrellada. Aquí se ve su construcción antes de instalar el acabado y los escombros.",
+    "The curved frame and panels form the crashed ship’s fuselage. These photographs show its construction before the finish and debris were installed."
+  ],
+  [
+    "Armazón curvo de la nave estrellada en construcción",
+    "Curved frame of the crashed ship under construction"
+  ],
+  [
+    "Ensamblaje de los paneles de la nave estrellada",
+    "Assembling the crashed ship’s panels"
+  ],
+  [
+    "Montaje del armazón de la nave en el taller",
+    "Assembling the ship’s frame at the studio"
+  ],
+  [
+    "Alien: Earth · La nave estrellada",
+    "Alien: Earth · The crashed ship"
+  ],
+  [
+    "Una sección del fuselaje emerge entre rocas y escombros. Así quedó el exterior de la experiencia de Alien: Earth en CCXP México 2025.",
+    "A section of the fuselage emerges from rocks and debris. This is the finished exterior of the Alien: Earth experience at CCXP Mexico 2025."
+  ],
+  [
+    "Nave estrellada de Alien: Earth · vista lateral en CCXP México",
+    "Alien: Earth crashed ship · side view at CCXP Mexico"
+  ],
+  [
+    "Nave estrellada de Alien: Earth · fuselaje, rocas y escombros en locación",
+    "Alien: Earth crashed ship · fuselage, rocks and debris on location"
+  ],
+  [
+    "La nave estrellada",
+    "The crashed ship"
+  ],
+  [
+    "Construcción de la nave",
+    "Building the ship"
+  ],
+  [
+    "acabado final",
+    "final finish"
+  ],
+  [
+    "vista lateral en CCXP México",
+    "side view at CCXP Mexico"
+  ],
+  [
+    "fuselaje, rocas y escombros en locación",
+    "fuselage, rocks and debris on location"
+  ],
+  [
+    "Huevo cerrado",
+    "Closed egg"
+  ],
+  [
+    "modelado completo, vista frontal",
+    "completed sculpt, front view"
+  ],
+  [
+    "Huevos cerrados",
+    "Closed eggs"
+  ],
+  [
+    "modelado completo en el taller",
+    "completed sculpts at the studio"
+  ],
+  [
+    "Fotografía de prensa",
+    "Press photograph"
+  ],
+  [
+    "Frames",
+    "Frames"
+  ],
+  [
+    "Zacek Chan",
+    "Zacek Chan"
   ]
 ];

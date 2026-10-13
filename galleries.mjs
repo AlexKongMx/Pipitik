@@ -521,15 +521,15 @@ export const galleries={
       },
       {
         "src": "/assets/1pbY_7btD6adHPSXx01i_aMun06PDhQ69.webp",
-        "alt": "Pasillo de Alien instalado"
-      },
-      {
-        "src": "/assets/1uJ6si-pa-JTxJei8A_nsN8B5aYRLllQu.webp",
-        "alt": "Exterior de la escenografía de Alien: Earth en exhibición"
+        "alt": "Interior construido del pasillo"
       },
       {
         "src": "/assets/alien-egg-finished-source-frame.webp",
         "alt": "Huevo terminado dentro de la escenografía"
+      },
+      {
+        "src": "/assets/1ZNY0eL3xoe1hoZsgqG9zdMGls7UK7HM3.webp",
+        "alt": "Huevo de resina translúcida · acabado final"
       }
     ],
     "groups": [
@@ -553,7 +553,7 @@ export const galleries={
       },
       {
         "title": "El huevo",
-        "text": "Relieve, piel y trabajo manual sobre la superficie del huevo.",
+        "text": "Del modelado de la superficie al volumen completo: vistas del huevo cerrado, el relieve y la apertura.",
         "images": [
           {
             "src": "/assets/17DZjlzTC2P3tVbq-yVOl0SNv_oPdhzCF.webp",
@@ -566,24 +566,46 @@ export const galleries={
           {
             "src": "/assets/1YB7zXBqQjsLybn_b3tJmT9spcQhvYqG-.webp",
             "alt": "Volumen del huevo y sus formas orgánicas"
+          },
+          {
+            "src": "/assets/1OYmKwyfGimdEXtrOduobEJhMDpjIirIT.webp",
+            "alt": "Huevo cerrado · modelado completo, vista frontal"
+          },
+          {
+            "src": "/assets/1uwE2pErsUB-JaEzCINVp2q9Mmdx75Rw3.webp",
+            "alt": "Huevos cerrados · modelado completo en el taller"
           }
         ]
       },
       {
-        "title": "El pasillo",
-        "text": "Estructura y ensamblaje del espacio escenográfico.",
+        "title": "Alien: Earth · La nave estrellada",
+        "text": "Una sección del fuselaje emerge entre rocas y escombros. Así quedó el exterior de la experiencia de Alien: Earth en CCXP México 2025.",
+        "images": [
+          {
+            "src": "/assets/1uJ6si-pa-JTxJei8A_nsN8B5aYRLllQu.webp",
+            "alt": "Nave estrellada de Alien: Earth · vista lateral en CCXP México"
+          },
+          {
+            "src": "/assets/18UOU3u3WBdfd6beBGisD7wEomSwRbWTL.webp",
+            "alt": "Nave estrellada de Alien: Earth · fuselaje, rocas y escombros en locación"
+          }
+        ]
+      },
+      {
+        "title": "Alien: Earth · Construcción de la nave",
+        "text": "El armazón curvo y los paneles forman el fuselaje de la nave estrellada. Aquí se ve su construcción antes de instalar el acabado y los escombros.",
         "images": [
           {
             "src": "/assets/1R-hCh_59QWLQRqjJ7XSRfg2nl4XzY4iE.webp",
-            "alt": "Estructura curva del pasillo en construcción"
+            "alt": "Armazón curvo de la nave estrellada en construcción"
           },
           {
             "src": "/assets/1t8RyDxncUPYDllTTPKzj58Fy6T0sEiJL.webp",
-            "alt": "Ensamblaje de los paneles del pasillo"
+            "alt": "Ensamblaje de los paneles de la nave estrellada"
           },
           {
             "src": "/assets/1w4xtGh4qwi56lBs_3O30uALGsbTlD4UB.webp",
-            "alt": "Montaje de la estructura en el taller"
+            "alt": "Montaje del armazón de la nave en el taller"
           }
         ]
       }

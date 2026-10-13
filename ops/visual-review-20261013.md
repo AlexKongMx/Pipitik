@@ -33,3 +33,14 @@ No public-source stills were added as studio-owned photographs. Search did not p
 ## Preservation and validation
 
 Alien and Mufasa approved heroes, Pinocho, Blue Demon, Iron Throne, team portraits and Alex's original homepage-cover bytes are preserved. Six featured projects remain unchanged. Build produces 38 bilingual pages. Local routes, photo sources, thumbnails, all 429 WebP decoders and translated copy passed. One empty green-Hulk export was corrected and the entire asset set rechecked. Cloud Browser cannot reach the local development server, so live desktop/mobile, lightbox and video review remains pending the approved preview upload.
+
+## Alien follow-up — October 13
+
+Alex requested the more complete egg photos and location research for the curved Alien: Earth structure. Added the separate translucent resin egg final from the HEROE folder, plus two closed-egg completed-sculpt views. The resin piece is not attributed to the Earth installation. The two high-quality studio location photographs now have a dedicated crashed-ship gallery; the curved framework process photographs are captioned as ship construction.
+
+Public research identifies the CCXP Mexico 2025 activation as an exploration of a crashed ship, consistent with Lalo’s account and the studio photographs. A Frames press photograph of the entrance is presented separately with publisher/byline credit and a source link. It does not claim that Pipitik built every part visible in the wider activation. No SXSW or San Diego installation photographs were used.
+
+Sources:
+- https://framesmx.com/2025/05/especial-asi-se-vivio-el-primer-dia-de-la-ccxpmx-25/
+- https://es.linkedin.com/posts/stayai_disney-ccxp-matraka-activity-7335894265618685952-rIYa
+- https://es.linkedin.com/posts/diego-reynoso-ascencio-61b6b5b0_ccxpmx-activity-7335367412545953794-kZyz

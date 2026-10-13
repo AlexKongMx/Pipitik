@@ -1,4 +1,7 @@
 // English copy shared by every static page, including captions and accessibility labels.
+import {storyTranslations} from '../project-stories.mjs';
+import {visualTranslations} from '../project-visuals.mjs';
+import {galleryTranslations} from '../gallery-translations.mjs';
 const pairs = `
 Idioma|Language
 English version|English version
@@ -310,7 +313,7 @@ const paragraphs = [
 ['Objetos que cuentan una historia. Construimos elementos físicos para producciones y experiencias, con atención al uso y al detalle.','Objects that tell a story. We build physical elements for productions and experiences, with attention to function and detail.'],
 ['Espacios y elementos que llevan una idea al mundo real. Integramos construcción, textura y acabado en el entorno.','Spaces and elements that bring an idea into the real world. We integrate construction, texture and finishing into the setting.']
 ];
-const dictionary = new Map([...pairs.trim().split('\n').map(line=>line.split('|')), ...paragraphs]);
+const dictionary = new Map([...pairs.trim().split('\n').map(line=>line.split('|')), ...paragraphs, ...storyTranslations, ...visualTranslations, ...galleryTranslations]);
 const lower = new Map([...dictionary].map(([key,value])=>[key.toLowerCase(),value]));
 const unchanged = new Set(['Pipitik','Hulk','Alien','Robin','Tron','Light Cycle','Tron: Ares','Mufasa','Demogorgon','Rancor','Blue Demon Jr.','Spider-Man','The Last of Us','Red Hulk','Ernesto Sarabia','Lalo Moreno','Ariadne Orozco','Gonzalo Lugo','Joel','ES','EN','English','Español']);
 export function english(text) {

@@ -108,6 +108,18 @@ export const galleries={
       {
         "src": "/assets/1l6mZWFxWg8ws6kYxMTK_QMZ_H5TyHNdO.webp",
         "alt": "Hulk verde en exhibición"
+      },
+      {
+        "src": "/assets/19Sg5110J9lTIBx-YK09vzMVjmbkVRLjZ.webp",
+        "alt": "Escudo terminado dentro de la vitrina de exhibición"
+      },
+      {
+        "src": "/assets/11KXLcBTCnsPM1dYB52VTTSZb_I_vb6w2.webp",
+        "alt": "Dos réplicas del escudo con su acabado terminado"
+      },
+      {
+        "src": "/assets/1XX2-4wD0FWUBCQT45G_zt0Htqe5hVx0F.webp",
+        "alt": "Escudo terminado, visto sobre la mesa del taller"
       }
     ],
     "groups": [
@@ -120,8 +132,28 @@ export const galleries={
             "alt": "Maqueta de Red Hulk para revisar proporciones"
           },
           {
-            "src": "/assets/1P1Mz6zstP6W1bCaz4Oz5zH_nOMGweGLa.webp",
-            "alt": "Trabajo de superficie en el cuerpo de Red Hulk"
+            "src": "/assets/10isa4bx8NuxeIoThBHQXrYFAVxEun_FW.webp",
+            "alt": "Estructura interna y piernas de Red Hulk antes del ensamblaje"
+          },
+          {
+            "src": "/assets/1XJJoUuwPETBr8dddSt17m8zszDmm2Xhv.webp",
+            "alt": "Modelado de la cabeza de Red Hulk en espuma"
+          },
+          {
+            "src": "/assets/1EotQM4kYV4yrUnDXMl0_l966WlwqHmg6.webp",
+            "alt": "Cuerpo completo de Red Hulk con la superficie preparada"
+          },
+          {
+            "src": "/assets/1jeONJfgVK3DVBija8K9TmpoRIpKdUwJv.webp",
+            "alt": "Revisión frontal del volumen antes de pintar"
+          },
+          {
+            "src": "/assets/10koWSdbp7bvp2uVhVzHMdFqVGB2dRqnX.webp",
+            "alt": "Primera aplicación del color rojo en el cuerpo"
+          },
+          {
+            "src": "/assets/1PIs-7rXw3_taLDjoL4EDNJWKq5Qs65ui.webp",
+            "alt": "Pintura y preparación del ensamblaje de Red Hulk"
           },
           {
             "src": "/assets/1Iax9uq3S8ztbmqFBPPNfzx9dUI91Y4fT.webp",
@@ -142,12 +174,36 @@ export const galleries={
             "alt": "Torso de Hulk verde antes de la pintura"
           },
           {
+            "src": "/assets/1R9XOTR01UJtbipq2HVDdQX4YKFyh5JCa.webp",
+            "alt": "Torso completo durante la preparación de superficies"
+          },
+          {
+            "src": "/assets/1p1cS1b1ogQMnzPVT-49GA10yjjomqEHK.webp",
+            "alt": "Textura del rostro de Hulk antes del color"
+          },
+          {
             "src": "/assets/16DldOiocmm2t6iB1cxc2yILHoqQViexY.webp",
             "alt": "Revisión de la expresión y las texturas del rostro"
           },
           {
             "src": "/assets/15r5Zvb4pLOHQ0_VrMeFrHaSo44Rr59qx.webp",
             "alt": "Detalle de la musculatura y los tonos verdes de la espalda"
+          },
+          {
+            "src": "/assets/1IsXKxIf4Q7_kcC99tD9Nk48907A1fETz.webp",
+            "alt": "Detalle de la mano durante el acabado de Hulk verde"
+          },
+          {
+            "src": "/assets/1VTzcBRlUjOCeFtq6dc-5cXyEfsF3h9y8.webp",
+            "alt": "Textura y color de la mano y el antebrazo"
+          },
+          {
+            "src": "/assets/1aIpyKVVj8drmc4eqgQFF9uceD97DLxhQ.webp",
+            "alt": "Piernas, pies y pantalón durante el acabado"
+          },
+          {
+            "src": "/assets/1i3Q-avy_w9PbTbCTS-4r5txx0qlLn1-K.webp",
+            "alt": "Rostro y torso de Hulk verde después de la pintura"
           }
         ]
       },
@@ -156,12 +212,36 @@ export const galleries={
         "text": "Construcción y acabado de las réplicas del escudo.",
         "images": [
           {
-            "src": "/assets/1WHaJXn0DLG53qv_LCAydT8MpSWnGwt3v.webp",
-            "alt": "Interior del escudo y sus correas"
+            "src": "/assets/1-o8yuILThbwp7GOc6yHmrBtJX9-8vs2y.webp",
+            "alt": "Volumen del escudo y trazado de sus anillos"
           },
           {
-            "src": "/assets/11LSyPPqKWMyiwhEMX2QJ-dqUi2mtq50G.webp",
-            "alt": "Superficie y relieve del escudo durante el acabado"
+            "src": "/assets/1k92KMqOu7eQsHsecG-qzcwmiVXokJfno.webp",
+            "alt": "Medición y trazado de la estrella central"
+          },
+          {
+            "src": "/assets/12RlbEe4KLOc1eq8lB3rkopqWw-5ELlEJ.webp",
+            "alt": "Trabajo manual del relieve de la estrella"
+          },
+          {
+            "src": "/assets/1-whojggI4eqFm7Pl5w9ZqXHDSWsDZ78v.webp",
+            "alt": "Piezas del molde y reverso del escudo"
+          },
+          {
+            "src": "/assets/1AKM9phAjoRDE24nFLfYd3IAEhf4mulKy.webp",
+            "alt": "Detalle de las piezas de la estrella y el anillo"
+          },
+          {
+            "src": "/assets/1aa4g_KhjH_VjWj1sWuktdC3dONDIEIyj.webp",
+            "alt": "Preparación del acabado metálico del escudo"
+          },
+          {
+            "src": "/assets/14cy1WbpwhNZrnKu7zxhGVQt5WZ369GCM.webp",
+            "alt": "Pintura azul y protección de los anillos"
+          },
+          {
+            "src": "/assets/1WHaJXn0DLG53qv_LCAydT8MpSWnGwt3v.webp",
+            "alt": "Interior del escudo y sus correas"
           }
         ]
       }
@@ -441,7 +521,15 @@ export const galleries={
       },
       {
         "src": "/assets/1pbY_7btD6adHPSXx01i_aMun06PDhQ69.webp",
-        "alt": "Pasillo de Alien instalado"
+        "alt": "Interior construido del pasillo"
+      },
+      {
+        "src": "/assets/alien-egg-finished-source-frame.webp",
+        "alt": "Huevo terminado dentro de la escenografía"
+      },
+      {
+        "src": "/assets/1ZNY0eL3xoe1hoZsgqG9zdMGls7UK7HM3.webp",
+        "alt": "Huevo de resina translúcida · acabado final"
       }
     ],
     "groups": [
@@ -465,7 +553,7 @@ export const galleries={
       },
       {
         "title": "El huevo",
-        "text": "Relieve, piel y trabajo manual sobre la superficie del huevo.",
+        "text": "Del modelado de la superficie al volumen completo: vistas del huevo cerrado, el relieve y la apertura.",
         "images": [
           {
             "src": "/assets/17DZjlzTC2P3tVbq-yVOl0SNv_oPdhzCF.webp",
@@ -478,24 +566,46 @@ export const galleries={
           {
             "src": "/assets/1YB7zXBqQjsLybn_b3tJmT9spcQhvYqG-.webp",
             "alt": "Volumen del huevo y sus formas orgánicas"
+          },
+          {
+            "src": "/assets/1OYmKwyfGimdEXtrOduobEJhMDpjIirIT.webp",
+            "alt": "Huevo cerrado · modelado completo, vista frontal"
+          },
+          {
+            "src": "/assets/1uwE2pErsUB-JaEzCINVp2q9Mmdx75Rw3.webp",
+            "alt": "Huevos cerrados · modelado completo en el taller"
           }
         ]
       },
       {
-        "title": "El pasillo",
-        "text": "Estructura y ensamblaje del espacio escenográfico.",
+        "title": "Alien: Earth · La nave estrellada",
+        "text": "Una sección del fuselaje emerge entre rocas y escombros. Así quedó el exterior de la experiencia de Alien: Earth en CCXP México 2025.",
+        "images": [
+          {
+            "src": "/assets/1uJ6si-pa-JTxJei8A_nsN8B5aYRLllQu.webp",
+            "alt": "Nave estrellada de Alien: Earth · vista lateral en CCXP México"
+          },
+          {
+            "src": "/assets/18UOU3u3WBdfd6beBGisD7wEomSwRbWTL.webp",
+            "alt": "Nave estrellada de Alien: Earth · fuselaje, rocas y escombros en locación"
+          }
+        ]
+      },
+      {
+        "title": "Alien: Earth · Construcción de la nave",
+        "text": "El armazón curvo y los paneles forman el fuselaje de la nave estrellada. Aquí se ve su construcción antes de instalar el acabado y los escombros.",
         "images": [
           {
             "src": "/assets/1R-hCh_59QWLQRqjJ7XSRfg2nl4XzY4iE.webp",
-            "alt": "Estructura curva del pasillo en construcción"
+            "alt": "Armazón curvo de la nave estrellada en construcción"
           },
           {
             "src": "/assets/1t8RyDxncUPYDllTTPKzj58Fy6T0sEiJL.webp",
-            "alt": "Ensamblaje de los paneles del pasillo"
+            "alt": "Ensamblaje de los paneles de la nave estrellada"
           },
           {
             "src": "/assets/1w4xtGh4qwi56lBs_3O30uALGsbTlD4UB.webp",
-            "alt": "Montaje de la estructura en el taller"
+            "alt": "Montaje del armazón de la nave en el taller"
           }
         ]
       }
@@ -658,6 +768,14 @@ export const galleries={
       {
         "src": "/assets/1DrCfpTjr91Cap8l6HNwFTk-ZWL7-UF1c.webp",
         "alt": "Vista lateral de la carrocería terminada en el taller"
+      },
+      {
+        "src": "/assets/1vHSwFwftYf2yEEEAjWqVyoT3_y4gixHf.webp",
+        "alt": "La Checoneta instalada en su exhibición promocional"
+      },
+      {
+        "src": "/assets/1zKzpPKqd2CfrzI-2ZMFO7mzCXljnEKGA.webp",
+        "alt": "Detalle frontal y lateral de la Checoneta terminada"
       }
     ],
     "groups": [

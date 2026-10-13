@@ -45,7 +45,7 @@
 .project-hero-open{display:block;position:relative;width:100%;border:0;padding:0;background:transparent;cursor:zoom-in;color:#fff}
 .project-hero-open span{position:absolute;right:20px;bottom:20px;padding:10px 14px;background:#111c;font:12px Arial,sans-serif}
 .lightbox{width:1280px;padding:64px 72px 24px;overflow:hidden}
-.lightbox img{height:calc(88svh - 140px);max-height:760px;object-fit:contain}
+.lightbox img{height:calc(88svh - 140px);max-height:760px;object-fit:contain;touch-action:pan-y pinch-zoom;user-select:none;-webkit-user-select:none}
 .lightbox-footer{display:flex;align-items:center;justify-content:space-between;gap:24px;margin-top:16px}
 .lightbox-footer p{margin:0;line-height:1.4}
 .lightbox-caption{text-align:left!important}
@@ -80,3 +80,23 @@
  .hero-content .eyebrow{display:none}.hero-description{margin:10px 0 14px;font-size:.9rem}
 }
 @media(min-width:701px){html[lang="en"] .hero h1{font-size:min(5.3vw,10.5svh)}}
+
+/* Production stories and confirmed project credits. */
+.video-frame{aspect-ratio:16/9;background:#080808;border:1px solid #333}
+.video-frame iframe{display:block;width:100%;height:100%;border:0}
+.video-frame-source{aspect-ratio:auto;max-width:440px;margin-inline:auto}
+.video-frame video{display:block;width:100%;max-height:640px}
+.project-videos .section-heading:not(:first-of-type){margin-top:40px}
+.video-credit{display:flex;flex-wrap:wrap;gap:12px 28px;margin-top:16px;color:#aaa;font-size:.85rem}
+.video-credit a{color:#fff;text-underline-offset:4px}
+.project-stories{padding-block:8px 64px}
+.project-story{padding-block:24px 40px;border-top:1px solid #bb2629}
+.project-story h2{font-size:clamp(2rem,4vw,4rem);margin-bottom:24px}
+.project-facts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;margin:0 0 28px}
+.project-facts dt{font-size:.72rem;text-transform:uppercase;letter-spacing:.1em;color:#ff5559;margin-bottom:10px}
+.project-facts dd{margin:0;font-size:1rem;line-height:1.6;overflow-wrap:anywhere}
+.story-copy{max-width:850px}
+.story-copy p{font-size:1.05rem;line-height:1.8;color:#ddd;margin:0 0 18px}
+@media(max-width:700px){.project-facts{grid-template-columns:1fr;gap:18px}.project-stories{padding-bottom:32px}.project-story{padding-bottom:24px}.story-copy p{font-size:1rem}}
+
+.press-references>p{margin-bottom:24px;color:#ccc;line-height:1.6}.press-references figure{margin:0}.press-references .gallery-item{width:100%}.press-references figcaption{line-height:1.6}

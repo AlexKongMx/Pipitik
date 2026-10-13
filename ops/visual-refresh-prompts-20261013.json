@@ -1,0 +1,28 @@
+{
+  "builtIn": "image_gen",
+  "heroes": [
+    {
+      "key": "tron",
+      "refs": [
+        "1lbC1p70I5sYoJ44mgkrqQNZcMu9KeB9t.webp"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: photorealistic portfolio hero wide horizontal 21:9. Rephotograph this EXACT black and red-orange Tron Ares physical light cycle prop at its promotional cinema stand with a much stronger low three-quarter angle. Preserve actual wheel geometry, distinctive open hub circles, precise body panels, proportions, handlebars, seat and lighting channels from reference. Whole motorcycle fully in frame with breathing room, both wheels visible, camera slightly farther back at wheel height. Premium exhibition product photography; black glossy surfaces separated by clean reflections, orange-red luminous wheel rings, dark cinematic cinema backdrop softly out of focus. This is a physical handbuilt exhibition prop, not a moving motorcycle or film still. Keep original promotional red digital screen but avoid duplicated motorcycle graphics competing with real prop; subtle, uncluttered framing, no people covering it, no extra text, no new logos. Single photograph, no collage."
+    },
+    {
+      "key": "checoneta",
+      "refs": [
+        "1vHSwFwftYf2yEEEAjWqVyoT3_y4gixHf.webp"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: photorealistic wide 21:9 portfolio hero. Create a professional clean hero photograph of the EXACT custom yellow Mercado Libre Checoneta promotional vehicle sculpture in the reference. Keep the unusual handbuilt wide low body, yellow panels, black grille, oval central badge, narrow rectangular headlights, black wheels, windows, exact sculpted proportions and gray rectangular exhibit platform. Rephotograph it at a stronger low three-quarter angle showing full vehicle, not cropped. Preserve the event backdrop, yellow booth and signage as in reference, display setting is believable contemporary convention. Remove foreground power cases, loose cables across the frame, setup clutter and distracting workers. Restrained soft warm key light and cool background, beautiful coherent reflections, yellow color accurate, physical fabricated prop visible. Do not substitute a stock van, Formula 1 car, real taxi or bus. No invented sponsors, no extra text, no watermark. One photograph."
+    },
+    {
+      "key": "ballena",
+      "refs": [
+        "ballena-hero-ai.webp"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target reference. Change ONLY the central doorway/opening between the two portions of the whale sculpture: cover the wooden structure and light visible inside completely with a closed deep red theater curtain, believable fabric folds spanning the full gap from top to floor, matching the red cut edge. The curtain must be closed and opaque so NO interior wooden framing or back room is visible. Preserve EXACT image composition, camera, whale shape and texture, both sections, tail, mouth opening, rocks, floor reflections, photographic lighting and forest backdrop. Keep the mouth untouched. No other changes. Wide horizontal image same aspect as input."
+    }
+  ],
+  "last": "Use case: compositing / identity-preserve. Wide horizontal 21:9 photorealistic portfolio hero. Reference 1 is actual historical installation context at Amsterdam and Laredo, La Condesa Mexico City, January 2023: outdoor gray cinderblock street wall with a fungus-infected sculpture and cordyceps spreading across the wall, paved city sidewalk. Reference 2 is the exact original sculpture close-up from the workshop, preserve its face with mouth open and head tilted, distinctive green-blue plaid sleeves and brown vest, pink layered shelf mushrooms across chest and trousers, orange cordyceps tubes and yellow strands, human arms lowered. Recreate a premium professional street installation photograph of that EXACT physical sculpture in its original OUTDOOR cinderblock wall context. Entire sculpture and spread of fungus clear and prominent at natural life-size, square face-on camera with modest three-quarter depth. Gray wall spans scene, subtle contextual street/building edges, small weathered FEDRA plaque near wall edge if visible. Late afternoon gentle light reveals hand-sculpted textures. Do NOT use a convention, museum, truss, overhead spotlights or invented large The Last of Us header board. No performers, no extra characters, no additional dramatic gore, no watermark. Keep design faithful to supporting sculpture rather than inventing a different zombie. One editorial photograph, not a film still.",
+  "hulkBlocked": true
+}

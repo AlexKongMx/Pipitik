@@ -1,0 +1,110 @@
+export const galleryTranslations=[
+  [
+    "Estructura interna y piernas de Red Hulk antes del ensamblaje",
+    "Internal structure and legs of Red Hulk before assembly"
+  ],
+  [
+    "Modelado de la cabeza de Red Hulk en espuma",
+    "Sculpting the Red Hulk head in foam"
+  ],
+  [
+    "Cuerpo completo de Red Hulk con la superficie preparada",
+    "Full Red Hulk body with the surface prepared"
+  ],
+  [
+    "Revisión frontal del volumen antes de pintar",
+    "Front view of the form before painting"
+  ],
+  [
+    "Primera aplicación del color rojo en el cuerpo",
+    "First application of red color on the body"
+  ],
+  [
+    "Pintura y preparación del ensamblaje de Red Hulk",
+    "Painting and preparing the Red Hulk assembly"
+  ],
+  [
+    "Torso completo durante la preparación de superficies",
+    "Full torso during surface preparation"
+  ],
+  [
+    "Textura del rostro de Hulk antes del color",
+    "Hulk face texture before color"
+  ],
+  [
+    "Detalle de la mano durante el acabado de Hulk verde",
+    "Hand detail during the finishing of green Hulk"
+  ],
+  [
+    "Textura y color de la mano y el antebrazo",
+    "Texture and color of the hand and forearm"
+  ],
+  [
+    "Piernas, pies y pantalón durante el acabado",
+    "Legs, feet and trousers during finishing"
+  ],
+  [
+    "Rostro y torso de Hulk verde después de la pintura",
+    "Green Hulk face and torso after painting"
+  ],
+  [
+    "Volumen del escudo y trazado de sus anillos",
+    "Shield form and ring layout"
+  ],
+  [
+    "Medición y trazado de la estrella central",
+    "Measuring and laying out the central star"
+  ],
+  [
+    "Trabajo manual del relieve de la estrella",
+    "Handwork on the raised star"
+  ],
+  [
+    "Piezas del molde y reverso del escudo",
+    "Mold components and reverse of the shield"
+  ],
+  [
+    "Detalle de las piezas de la estrella y el anillo",
+    "Detail of the star and ring components"
+  ],
+  [
+    "Preparación del acabado metálico del escudo",
+    "Preparing the metallic finish of the shield"
+  ],
+  [
+    "Pintura azul y protección de los anillos",
+    "Blue paint and masking of the rings"
+  ],
+  [
+    "Escudo terminado, visto sobre la mesa del taller",
+    "Finished shield on the studio table"
+  ],
+  [
+    "Red Hulk y el escudo en su instalación promocional real",
+    "Red Hulk and the shield in their actual promotional installation"
+  ],
+  [
+    "Escudo terminado dentro de la vitrina de exhibición",
+    "Finished shield inside the display case"
+  ],
+  [
+    "Dos réplicas del escudo con su acabado terminado",
+    "Two shield replicas with their final finish"
+  ],
+  [
+    "Detalle frontal y lateral de la Checoneta terminada",
+    "Front and side detail of the finished Checoneta"
+  ],
+  [
+    "La Checoneta instalada en su exhibición promocional",
+    "La Checoneta installed in its promotional exhibition"
+  ],
+  [
+    "Exterior de la escenografía de Alien: Earth en exhibición",
+    "Exterior of the Alien: Earth set on display"
+  ],
+  [
+    "Huevo terminado dentro de la escenografía",
+    "Finished egg inside the set"
+  ]
+];

@@ -82,6 +82,13 @@
 @media(min-width:701px){html[lang="en"] .hero h1{font-size:min(5.3vw,10.5svh)}}
 
 /* Production stories and confirmed project credits. */
+.video-frame{aspect-ratio:16/9;background:#080808;border:1px solid #333}
+.video-frame iframe{display:block;width:100%;height:100%;border:0}
+.video-frame-source{aspect-ratio:auto;max-width:440px;margin-inline:auto}
+.video-frame video{display:block;width:100%;max-height:640px}
+.project-videos .section-heading:not(:first-of-type){margin-top:40px}
+.video-credit{display:flex;flex-wrap:wrap;gap:12px 28px;margin-top:16px;color:#aaa;font-size:.85rem}
+.video-credit a{color:#fff;text-underline-offset:4px}
 .project-stories{padding-block:8px 64px}
 .project-story{padding-block:24px 40px;border-top:1px solid #bb2629}
 .project-story h2{font-size:clamp(2rem,4vw,4rem);margin-bottom:24px}

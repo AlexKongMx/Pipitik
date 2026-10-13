@@ -45,6 +45,7 @@
 
 ## Production stories and research — October 13
 
+- Project stories use the collective voice of the Pipitik team in Spanish and English. Do not center the narrative on Lalo or transfer his personal career totals to the studio. Preserve individual names and biographies on the team page and accurate internal source attribution.
 - `project-stories.mjs` contains the Spanish/English editorial version of Lalo's first-hand production notes. Brand/campaign attribution is distinct from the contracting client; Disney is confirmed as client for Próximus César. Other direct-client names and unknown venue details must not be invented.
 - Reference folder: https://drive.google.com/drive/folders/1kGjujERjgncg4obn--FVJxtp6o9YadXV. Keep public-source images as research references with source links. The generated hero is labeled as an AI recreation.
 - Mufasa's approximately two weeks refers to fur sculpting, not total production. Do not turn approximate counts or durations into exact claims.

@@ -80,3 +80,14 @@
  .hero-content .eyebrow{display:none}.hero-description{margin:10px 0 14px;font-size:.9rem}
 }
 @media(min-width:701px){html[lang="en"] .hero h1{font-size:min(5.3vw,10.5svh)}}
+
+/* Production stories and confirmed project credits. */
+.project-stories{padding-block:8px 64px}
+.project-story{padding-block:24px 40px;border-top:1px solid #bb2629}
+.project-story h2{font-size:clamp(2rem,4vw,4rem);margin-bottom:24px}
+.project-facts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;margin:0 0 28px}
+.project-facts dt{font-size:.72rem;text-transform:uppercase;letter-spacing:.1em;color:#ff5559;margin-bottom:10px}
+.project-facts dd{margin:0;font-size:1rem;line-height:1.6;overflow-wrap:anywhere}
+.story-copy{max-width:850px}
+.story-copy p{font-size:1.05rem;line-height:1.8;color:#ddd;margin:0 0 18px}
+@media(max-width:700px){.project-facts{grid-template-columns:1fr;gap:18px}.project-stories{padding-bottom:32px}.project-story{padding-bottom:24px}.story-copy p{font-size:1rem}}

@@ -5,7 +5,7 @@
 - DO NOT PUSH TO MAIN. Alex's instruction of October 8, 2026 supersedes earlier deployment authorization.
 - Work on a preview branch and publish a Netlify Deploy Preview through a draft pull request. Share the preview URL for review.
 - Do not push, merge, or deploy to production until Alex explicitly says this version is ready for push to main. A request to edit the site is not that approval.
-- Keep `main` unchanged throughout review. Alex authorized the October 9 version only; it was merged as 9a2addc71bebeb17870cfd04a298052bad97961b. New changes still require separate approval.
+- Keep `main` unchanged throughout review. Alex authorized the October 9 bilingual/mobile version, merged as 5143e1a527740212c00d18831c3090725ab22b9f. New changes still require separate approval.
 
 ## Project management
 
@@ -29,7 +29,7 @@
 - First Light Cycle appearance: wide promotional stand photo. Second appearance: preserve the close photo.
 - Featured projects: Hulk, Mufasa, Pinocho, The Last of Us, Robin, Tron. Exactly six, no duplicate projects.
 - AI hero direction: believable promotional installations in cinemas, shopping malls, and conventions. Preserve the actual sculpture design. These are proposals; do not describe invented venues as confirmed installation history.
-- Alien: wait for Alex's location confirmation from Lalo before changing its hero.
+- Alien: Alex authorized a new hero proposal on October 13, based on Lalo's notes, the actual workshop sculpture and public location photographs. The new AI recreation of the mobile exhibit is preview only. Preserve the prior source photograph. Alien: Romulus and Alien: Earth have separate production stories on the existing Alien page; do not conflate their timelines or assign unverified gallery photographs to one campaign.
 - Team portraits are approved; preserve them.
 - Robin and Spider-Man use Alex’s supplied hero images from October 9. Próximus César uses the approved-direction AI recreation based on the actual location references.
 - Catalog now includes Checoneta, Diorama de mamut and Rancor. Preserve the six featured projects unless Alex changes that selection.
@@ -40,3 +40,9 @@
 
 - Spanish lives at `/`, `/proyectos/` and `/equipo/`; English lives at `/en/`, `/en/projects/` and `/en/team/`, with translated project slugs where applicable.
 - Both languages have real static pages, matching ES/EN links, canonical URLs, hreflang and translated copy, captions and accessibility labels.
+
+## Production stories and research — October 13
+
+- `project-stories.mjs` contains the Spanish/English editorial version of Lalo's first-hand production notes. Brand/campaign attribution is distinct from the contracting client; Disney is confirmed as client for Próximus César. Other direct-client names and unknown venue details must not be invented.
+- Reference folder: https://drive.google.com/drive/folders/1kGjujERjgncg4obn--FVJxtp6o9YadXV. Keep public-source images as research references with source links. The generated hero is labeled as an AI recreation.
+- Mufasa's approximately two weeks refers to fur sculpting, not total production. Do not turn approximate counts or durations into exact claims.
